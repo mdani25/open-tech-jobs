@@ -1,0 +1,331 @@
+{
+  "profile": "Manikandan S - Full-stack (React, .NET, Python, Flutter, SQL), 1+ yr experience, Chennai",
+  "locations": [
+    "Chennai"
+  ],
+  "max_years_required": 3,
+  "keywords_include": [
+    "engineer",
+    "developer",
+    "software",
+    "full stack",
+    "full-stack",
+    "frontend",
+    "front-end",
+    "front end",
+    "backend",
+    "back-end",
+    "web",
+    "mobile",
+    "app ",
+    "android",
+    "flutter",
+    "react",
+    ".net",
+    "python",
+    "java",
+    "data",
+    "machine learning",
+    "ml ",
+    "ai ",
+    "devops",
+    "cloud",
+    "qa",
+    "sdet",
+    "test",
+    "support engineer",
+    "solutions",
+    "associate",
+    "trainee",
+    "graduate",
+    "fresher",
+    "junior",
+    "intern",
+    "sde"
+  ],
+  "keywords_exclude": [
+    "senior",
+    "sr.",
+    "sr ",
+    "lead",
+    "principal",
+    "staff",
+    "manager",
+    "director",
+    "head of",
+    "vp",
+    "architect",
+    "iii",
+    " iv",
+    "sales",
+    "recruiter",
+    "marketing",
+    "legal",
+    "counsel",
+    "accountant",
+    "finance",
+    "office"
+  ],
+  "resume_skills": [
+    "react",
+    ".net",
+    "asp.net",
+    "dotnet",
+    "python",
+    "flutter",
+    "react native",
+    "full stack",
+    "full-stack",
+    "fullstack",
+    "sql server",
+    "sql",
+    "mysql",
+    "mongodb",
+    "rest api",
+    "javascript",
+    "tensorflow",
+    "opencv",
+    "entity framework",
+    "mern",
+    "android",
+    "java"
+  ],
+  "jd_max_chars": 8000,
+  "telegram": {
+    "min_match": 2,
+    "max_per_run": 25,
+    "jd_chars": 900,
+    "max_age_days": 3
+  },
+  "windows": [
+    1,
+    2,
+    3,
+    7,
+    14,
+    30
+  ],
+  "default_days": 7,
+  "max_rows_per_window": 500,
+  "experience_years": 1,
+  "linkedin_levels": "1,2,3",
+  "search_keywords": [
+    "full stack developer",
+    "react developer",
+    ".net developer",
+    "flutter developer",
+    "python developer",
+    "software engineer",
+    "graduate engineer trainee"
+  ],
+  "companies": [
+    {
+      "name": "Amazon",
+      "ats": "amazon",
+      "id": "amazon",
+      "queries": [
+        "software development engineer",
+        "frontend engineer",
+        "full stack",
+        "web developer",
+        "software engineer",
+        "associate",
+        "graduate",
+        "intern"
+      ]
+    },
+    {
+      "name": "Walmart Global Tech",
+      "ats": "workday",
+      "host": "walmart.wd5.myworkdayjobs.com",
+      "tenant": "walmart",
+      "site": "WalmartExternal",
+      "search": "Chennai"
+    },
+    {
+      "name": "Dell",
+      "ats": "workday",
+      "host": "dell.wd1.myworkdayjobs.com",
+      "tenant": "dell",
+      "site": "External",
+      "search": "Chennai"
+    },
+    {
+      "name": "Standard Chartered",
+      "ats": "workday",
+      "host": "sc.wd3.myworkdayjobs.com",
+      "tenant": "sc",
+      "site": "External_Career_Site",
+      "search": "Chennai"
+    },
+    {
+      "name": "Salesforce",
+      "ats": "workday",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site",
+      "search": "Chennai"
+    },
+    {
+      "name": "Freshworks",
+      "ats": "smartrecruiters",
+      "id": "Freshworks"
+    },
+    {
+      "name": "Zeta",
+      "ats": "greenhouse",
+      "id": "zeta"
+    },
+    {
+      "name": "Capillary Technologies",
+      "ats": "greenhouse",
+      "id": "capillarytech"
+    },
+    {
+      "name": "Gramener",
+      "ats": "greenhouse",
+      "id": "gramener"
+    },
+    {
+      "name": "Ideas2IT",
+      "ats": "lever",
+      "id": "ideas2it"
+    },
+    {
+      "name": "Kissflow",
+      "ats": "lever",
+      "id": "kissflow"
+    },
+    {
+      "name": "Agilisium",
+      "ats": "lever",
+      "id": "agilisium"
+    },
+    {
+      "name": "Razorpay",
+      "ats": "greenhouse",
+      "id": "razorpay"
+    },
+    {
+      "name": "Postman",
+      "ats": "greenhouse",
+      "id": "postman"
+    },
+    {
+      "name": "Stripe",
+      "ats": "greenhouse",
+      "id": "stripe"
+    },
+    {
+      "name": "Cloudflare",
+      "ats": "greenhouse",
+      "id": "cloudflare"
+    },
+    {
+      "name": "Databricks",
+      "ats": "greenhouse",
+      "id": "databricks"
+    },
+    {
+      "name": "Datadog",
+      "ats": "greenhouse",
+      "id": "datadog"
+    },
+    {
+      "name": "Twilio",
+      "ats": "greenhouse",
+      "id": "twilio"
+    },
+    {
+      "name": "Coinbase",
+      "ats": "greenhouse",
+      "id": "coinbase"
+    },
+    {
+      "name": "Palantir",
+      "ats": "lever",
+      "id": "palantir"
+    },
+    {
+      "name": "Spotify",
+      "ats": "lever",
+      "id": "spotify"
+    },
+    {
+      "name": "OpenAI",
+      "ats": "ashby",
+      "id": "openai"
+    },
+    {
+      "name": "Notion",
+      "ats": "ashby",
+      "id": "notion"
+    }
+  ],
+  "direct_links": [
+    {
+      "name": "TCS (experienced + fresher)",
+      "url": "https://ibegin.tcs.com/iBegin/jobs/search"
+    },
+    {
+      "name": "TCS NextStep (freshers)",
+      "url": "https://nextstep.tcs.com/"
+    },
+    {
+      "name": "Zoho",
+      "url": "https://careers.zohocorp.com/jobs/Careers"
+    },
+    {
+      "name": "Infosys",
+      "url": "https://career.infosys.com/"
+    },
+    {
+      "name": "Wipro",
+      "url": "https://careers.wipro.com/"
+    },
+    {
+      "name": "HCLTech",
+      "url": "https://www.hcltech.com/careers"
+    },
+    {
+      "name": "Cognizant",
+      "url": "https://careers.cognizant.com/"
+    },
+    {
+      "name": "Accenture",
+      "url": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "name": "Capgemini",
+      "url": "https://www.capgemini.com/in-en/careers/"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://careers.microsoft.com/"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://careers.oracle.com/"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://paypal.eightfold.ai/careers"
+    },
+    {
+      "name": "Ford",
+      "url": "https://corporate.ford.com/careers.html"
+    },
+    {
+      "name": "Chargebee",
+      "url": "https://jobs.chargebee.com/"
+    },
+    {
+      "name": "Hexaware",
+      "url": "https://hexaware.com/careers/"
+    },
+    {
+      "name": "Mphasis",
+      "url": "https://careers.mphasis.com/"
+    }
+  ]
+}
