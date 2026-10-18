@@ -1,10 +1,10 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-10-18 16:28 UTC - 24 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-10-18 16:38 UTC - 24 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (1) | [Last 7 days](windows/last-7d.md) (15) | [Last 14 days](windows/last-14d.md) (17) | [Last 30 days (1 month)](windows/last-30d.md) (21) | [Last 365 days (1 year)](windows/last-365d.md) (24)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (1) | [Last 6 days](windows/last-6d.md) (13) | [Last 7 days](windows/last-7d.md) (15) | [Last 14 days](windows/last-14d.md) (17) | [Last 30 days (1 month)](windows/last-30d.md) (21)
 
 ## Last 7 days (15)
 
