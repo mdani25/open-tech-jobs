@@ -1,4 +1,4 @@
-# Last 7 days - 13 jobs
+# Last 7 days - 12 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
@@ -16,6 +16,5 @@
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10578793/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/a7128b9118.md) |
 |  | Amazon | Software Development Engineer, Fire Tablet | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10578772/software-development-engineer-fire-tablet) | [JD](../jds/f9373a8605.md) |
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10578792/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/948ae9a3d0.md) |
-|  | Amazon | Associate, ML Data Operations, GO-AI Operations | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10576812/associate-ml-data-operations-go-ai-operations) | [JD](../jds/a6fa57189d.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._

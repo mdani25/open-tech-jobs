@@ -1,4 +1,4 @@
-# Last 14 days - 17 jobs
+# Last 14 days - 16 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
@@ -16,7 +16,6 @@
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10578793/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/a7128b9118.md) |
 |  | Amazon | Software Development Engineer, Fire Tablet | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10578772/software-development-engineer-fire-tablet) | [JD](../jds/f9373a8605.md) |
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10578792/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/948ae9a3d0.md) |
-|  | Amazon | Associate, ML Data Operations, GO-AI Operations | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10576812/associate-ml-data-operations-go-ai-operations) | [JD](../jds/a6fa57189d.md) |
 |  | Amazon | Digital Associate I, MLDOps | Chennai, Tamil Nadu, IND | 7d ago | [Apply](https://www.amazon.jobs/en/jobs/10575829/digital-associate-i-mldops) | [JD](../jds/4f92f7637f.md) |
 |  | Amazon | Associate - Retail Process, CMT | Chennai, Tamil Nadu, IND | 7d ago | [Apply](https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt) | [JD](../jds/26a7eabe0b.md) |
 |  | Amazon | Visual Design Associate, Prime Video - GSS, GSS - Design Production | Chennai, Tamil Nadu, IND | 11d ago | [Apply](https://www.amazon.jobs/en/jobs/10572989/visual-design-associate-prime-video-gss-gss-design-production) | [JD](../jds/084ed515a6.md) |
