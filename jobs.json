@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-19T13:05:23.172658+00:00",
- "count": 23,
+ "updated": "2026-10-19T19:24:43.535317+00:00",
+ "count": 24,
  "jobs": [
+  {
+   "title": "Digital Associate, Ring Data Engineering Services",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10582819/digital-associate-ring-data-engineering-services",
+   "posted": "2026-10-19T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-10-19T19:24:43.535317+00:00",
+   "posted_exact": true,
+   "jd_file": "1fc294c890.md",
+   "summary": "As a SA/VLM associate, you will be responsible for creating high-quality written content for videos/images and/or labeling of objects on audio, image, and/or video-file. Your primary focus will be on producing clear, concise, and informative content that meets the needs of the target audience. Key..."
+  },
   {
    "title": "Software Development Engineer II",
    "location": "Chennai, Tamil Nadu, IND",

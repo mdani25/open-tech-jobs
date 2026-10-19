@@ -1,7 +1,9 @@
-# Last 24 hours - 0 jobs
+# Last 24 hours - 1 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
-_No jobs in this window._
+| Match | Company | Role | Location | Posted | Apply | JD |
+|---|---|---|---|---|---|---|
+|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 19h ago | [Apply](https://www.amazon.jobs/en/jobs/10582819/digital-associate-ring-data-engineering-services) | [JD](../jds/1fc294c890.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
