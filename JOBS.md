@@ -1,15 +1,17 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-10-20 06:15 UTC - 34 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-10-20 18:03 UTC - 36 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (11) | [Last 3 days](windows/last-3d.md) (11) | [Last 7 days](windows/last-7d.md) (23) | [Last 14 days](windows/last-14d.md) (26) | [Last 30 days (1 month)](windows/last-30d.md) (31)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (2) | [Last 2 days](windows/last-2d.md) (13) | [Last 3 days](windows/last-3d.md) (13) | [Last 7 days](windows/last-7d.md) (25) | [Last 14 days](windows/last-14d.md) (28) | [Last 30 days (1 month)](windows/last-30d.md) (33)
 
-## Last 7 days (23)
+## Last 7 days (25)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
+|  | Amazon | ML Data Associate, AGIDS-IVA, AGIDS-IVA | Chennai, Tamil Nadu, IND | 18h ago | [Apply](https://www.amazon.jobs/en/jobs/10583662/ml-data-associate-agids-iva-agids-iva) | [JD](jds/33c8eca84a.md) |
+|  | Amazon | ML Data Associate, AGIDS-IVA, AGIDS-IVA | Chennai, Tamil Nadu, IND | 18h ago | [Apply](https://www.amazon.jobs/en/jobs/10583661/ml-data-associate-agids-iva-agids-iva) | [JD](jds/aa9144bcfc.md) |
 |  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 1d ago | [Apply](https://www.amazon.jobs/en/jobs/10583474/digital-associate-ring-data-engineering-services) | [JD](jds/3770708819.md) |
 |  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 1d ago | [Apply](https://www.amazon.jobs/en/jobs/10583473/digital-associate-ring-data-engineering-services) | [JD](jds/a6ab6e06e8.md) |
 |  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 1d ago | [Apply](https://www.amazon.jobs/en/jobs/10583472/digital-associate-ring-data-engineering-services) | [JD](jds/7781b49aa7.md) |
@@ -40,7 +42,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 320 | 51 | 35 | 34 |
+| Amazon | OK | 319 | 53 | 37 | 36 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -54,15 +56,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 723 | 0 | 0 | 0 |
+| Stripe | OK | 729 | 0 | 0 | 0 |
 | Cloudflare | OK | 437 | 0 | 0 | 0 |
-| Databricks | OK | 899 | 0 | 0 | 0 |
-| Datadog | OK | 431 | 0 | 0 | 0 |
-| Twilio | OK | 134 | 0 | 0 | 0 |
-| Coinbase | OK | 227 | 0 | 0 | 0 |
+| Databricks | OK | 900 | 0 | 0 | 0 |
+| Datadog | OK | 432 | 0 | 0 | 0 |
+| Twilio | OK | 133 | 0 | 0 | 0 |
+| Coinbase | OK | 226 | 0 | 0 | 0 |
 | Palantir | OK | 309 | 0 | 0 | 0 |
-| Spotify | OK | 82 | 0 | 0 | 0 |
-| OpenAI | OK | 806 | 0 | 0 | 0 |
-| Notion | OK | 133 | 0 | 0 | 0 |
+| Spotify | OK | 81 | 0 | 0 | 0 |
+| OpenAI | OK | 805 | 0 | 0 | 0 |
+| Notion | OK | 135 | 0 | 0 | 0 |
 
 </details>
