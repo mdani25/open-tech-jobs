@@ -1,10 +1,10 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-10-21 06:15 UTC - 34 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-10-21 18:09 UTC - 33 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (11) | [Last 7 days](windows/last-7d.md) (12) | [Last 14 days](windows/last-14d.md) (26) | [Last 30 days (1 month)](windows/last-30d.md) (31)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (11) | [Last 7 days](windows/last-7d.md) (12) | [Last 14 days](windows/last-14d.md) (26) | [Last 30 days (1 month)](windows/last-30d.md) (30)
 
 ## Last 7 days (12)
 
@@ -29,7 +29,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 319 | 51 | 35 | 34 |
+| Amazon | OK | 318 | 50 | 34 | 33 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -43,15 +43,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 732 | 0 | 0 | 0 |
+| Stripe | OK | 728 | 0 | 0 | 0 |
 | Cloudflare | OK | 439 | 0 | 0 | 0 |
-| Databricks | OK | 900 | 0 | 0 | 0 |
-| Datadog | OK | 434 | 0 | 0 | 0 |
-| Twilio | OK | 132 | 0 | 0 | 0 |
-| Coinbase | OK | 230 | 0 | 0 | 0 |
+| Databricks | OK | 897 | 0 | 0 | 0 |
+| Datadog | OK | 437 | 0 | 0 | 0 |
+| Twilio | OK | 131 | 0 | 0 | 0 |
+| Coinbase | OK | 229 | 0 | 0 | 0 |
 | Palantir | OK | 306 | 0 | 0 | 0 |
-| Spotify | OK | 81 | 0 | 0 | 0 |
+| Spotify | OK | 79 | 0 | 0 | 0 |
 | OpenAI | OK | 808 | 0 | 0 | 0 |
-| Notion | OK | 135 | 0 | 0 | 0 |
+| Notion | OK | 136 | 0 | 0 | 0 |
 
 </details>

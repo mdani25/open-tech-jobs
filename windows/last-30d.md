@@ -1,4 +1,4 @@
-# Last 30 days (1 month) - 31 jobs
+# Last 30 days (1 month) - 30 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
@@ -30,7 +30,6 @@
 |  | Amazon | Digital Associate I, MLDOps | Chennai, Tamil Nadu, IND | 9d ago | [Apply](https://www.amazon.jobs/en/jobs/10575829/digital-associate-i-mldops) | [JD](../jds/4f92f7637f.md) |
 |  | Amazon | Associate - Retail Process, CMT | Chennai, Tamil Nadu, IND | 9d ago | [Apply](https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt) | [JD](../jds/26a7eabe0b.md) |
 |  | Amazon | Visual Design Associate, Prime Video - GSS, GSS - Design Production | Chennai, Tamil Nadu, IND | 13d ago | [Apply](https://www.amazon.jobs/en/jobs/10572989/visual-design-associate-prime-video-gss-gss-design-production) | [JD](../jds/084ed515a6.md) |
-|  | Amazon | Visual Design Associate, Prime Video - GSS, GSS - Design Production | Chennai, Tamil Nadu, IND | 15d ago | [Apply](https://www.amazon.jobs/en/jobs/10569954/visual-design-associate-prime-video-gss-gss-design-production) | [JD](../jds/f0b2c98364.md) |
 |  | Amazon | Software Dev Engineer II, Amazon Payment Services | Chennai, Tamil Nadu, IND | 27d ago | [Apply](https://www.amazon.jobs/en/jobs/10558766/software-dev-engineer-ii-amazon-payment-services) | [JD](../jds/f890043354.md) |
 |  | Amazon | WiFi Software Development Engineer, eero | Chennai, Tamil Nadu, IND | 28d ago | [Apply](https://www.amazon.jobs/en/jobs/10558338/wifi-software-development-engineer-eero) | [JD](../jds/3f10d1e644.md) |
 |  | Amazon | WiFi Software Development Engineer, eero | Chennai, Tamil Nadu, IND | 28d ago | [Apply](https://www.amazon.jobs/en/jobs/10558339/wifi-software-development-engineer-eero) | [JD](../jds/b77c4a042b.md) |
