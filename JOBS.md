@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-10-23 06:12 UTC - 23 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-10-23 17:55 UTC - 23 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -18,12 +18,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 317 | 40 | 24 | 23 |
+| Amazon | OK | 314 | 40 | 24 | 23 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
 | Salesforce | OK | 1 | 1 | 0 | 0 |
-| Freshworks | OK | 127 | 17 | 0 | 0 |
+| Freshworks | OK | 126 | 16 | 0 | 0 |
 | Zeta | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Capillary Technologies | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Gramener | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
@@ -32,15 +32,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 728 | 0 | 0 | 0 |
-| Cloudflare | OK | 446 | 0 | 0 | 0 |
-| Databricks | OK | 900 | 0 | 0 | 0 |
-| Datadog | OK | 439 | 0 | 0 | 0 |
-| Twilio | OK | 131 | 0 | 0 | 0 |
-| Coinbase | OK | 223 | 0 | 0 | 0 |
-| Palantir | OK | 307 | 0 | 0 | 0 |
-| Spotify | OK | 78 | 0 | 0 | 0 |
-| OpenAI | OK | 802 | 0 | 0 | 0 |
-| Notion | OK | 139 | 0 | 0 | 0 |
+| Stripe | OK | 723 | 0 | 0 | 0 |
+| Cloudflare | OK | 453 | 0 | 0 | 0 |
+| Databricks | OK | 894 | 0 | 0 | 0 |
+| Datadog | OK | 435 | 0 | 0 | 0 |
+| Twilio | OK | 134 | 0 | 0 | 0 |
+| Coinbase | OK | 226 | 0 | 0 | 0 |
+| Palantir | OK | 309 | 0 | 0 | 0 |
+| Spotify | OK | 88 | 0 | 0 | 0 |
+| OpenAI | OK | 800 | 0 | 0 | 0 |
+| Notion | OK | 140 | 0 | 0 | 0 |
 
 </details>
