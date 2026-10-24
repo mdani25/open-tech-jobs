@@ -1,16 +1,16 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-10-23 17:55 UTC - 23 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-10-24 06:07 UTC - 23 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (1) | [Last 14 days](windows/last-14d.md) (15) | [Last 30 days (1 month)](windows/last-30d.md) (17)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (1) | [Last 14 days](windows/last-14d.md) (15) | [Last 30 days (1 month)](windows/last-30d.md) (16)
 
 ## Last 7 days (1)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10582819/digital-associate-ring-data-engineering-services) | [JD](jds/1fc294c890.md) |
+|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10582819/digital-associate-ring-data-engineering-services) | [JD](jds/1fc294c890.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -32,15 +32,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 723 | 0 | 0 | 0 |
+| Stripe | OK | 720 | 0 | 0 | 0 |
 | Cloudflare | OK | 453 | 0 | 0 | 0 |
-| Databricks | OK | 894 | 0 | 0 | 0 |
-| Datadog | OK | 435 | 0 | 0 | 0 |
+| Databricks | OK | 896 | 0 | 0 | 0 |
+| Datadog | OK | 433 | 0 | 0 | 0 |
 | Twilio | OK | 134 | 0 | 0 | 0 |
-| Coinbase | OK | 226 | 0 | 0 | 0 |
+| Coinbase | OK | 227 | 0 | 0 | 0 |
 | Palantir | OK | 309 | 0 | 0 | 0 |
-| Spotify | OK | 88 | 0 | 0 | 0 |
-| OpenAI | OK | 800 | 0 | 0 | 0 |
+| Spotify | OK | 90 | 0 | 0 | 0 |
+| OpenAI | OK | 796 | 0 | 0 | 0 |
 | Notion | OK | 140 | 0 | 0 | 0 |
 
 </details>
