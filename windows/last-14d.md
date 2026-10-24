@@ -1,4 +1,4 @@
-# Last 14 days - 15 jobs
+# Last 14 days - 16 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
@@ -19,5 +19,6 @@
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 10d ago | [Apply](https://www.amazon.jobs/en/jobs/10578792/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/948ae9a3d0.md) |
 |  | Amazon | Digital Associate I, MLDOps | Chennai, Tamil Nadu, IND | 12d ago | [Apply](https://www.amazon.jobs/en/jobs/10575829/digital-associate-i-mldops) | [JD](../jds/4f92f7637f.md) |
 |  | Amazon | Associate - Retail Process, CMT | Chennai, Tamil Nadu, IND | 12d ago | [Apply](https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt) | [JD](../jds/26a7eabe0b.md) |
+|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 12d ago | [Apply](https://www.amazon.jobs/en/jobs/10576424/digital-associate-ring-data-engineering-services) | [JD](../jds/7fdc66f958.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
