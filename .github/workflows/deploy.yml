@@ -1,0 +1,67 @@
+name: Deploy website to GitHub Pages
+
+# Runs after a successful job-data update or on manual dispatch.
+# Does NOT replace update.yml — both workflows coexist independently.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "jobs.json"
+      - "config.json"
+      - "jds/**"
+  workflow_dispatch:
+
+# Sets GITHUB_TOKEN permissions so the deploy step can push to gh-pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one deploy at a time; don't cancel a running deploy.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+        working-directory: web
+
+      - name: Build website
+        # sync-data copies jobs.json / config.json / jds/ into public/data before build.
+        # NEXT_PUBLIC_BASE_PATH must match the GitHub Pages repository subpath.
+        env:
+          NEXT_PUBLIC_BASE_PATH: /open-tech-jobs
+        run: npm run build
+        working-directory: web
+
+      # GitHub Pages requires a .nojekyll file to serve files starting with _
+      - name: Add .nojekyll
+        run: touch web/out/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
