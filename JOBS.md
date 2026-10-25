@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-10-24 16:46 UTC - 26 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-10-25 06:28 UTC - 26 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -10,7 +10,7 @@ _Last updated: 2026-10-24 16:46 UTC - 26 open roles from 13 working company boar
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10582819/digital-associate-ring-data-engineering-services) | [JD](jds/1fc294c890.md) |
+|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10582819/digital-associate-ring-data-engineering-services) | [JD](jds/1fc294c890.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -34,13 +34,13 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Stripe | OK | 719 | 0 | 0 | 0 |
 | Cloudflare | OK | 454 | 0 | 0 | 0 |
-| Databricks | OK | 896 | 0 | 0 | 0 |
+| Databricks | OK | 897 | 0 | 0 | 0 |
 | Datadog | OK | 433 | 0 | 0 | 0 |
 | Twilio | OK | 134 | 0 | 0 | 0 |
 | Coinbase | OK | 227 | 0 | 0 | 0 |
 | Palantir | OK | 309 | 0 | 0 | 0 |
 | Spotify | OK | 90 | 0 | 0 | 0 |
-| OpenAI | OK | 796 | 0 | 0 | 0 |
+| OpenAI | OK | 794 | 0 | 0 | 0 |
 | Notion | OK | 140 | 0 | 0 | 0 |
 
 </details>
