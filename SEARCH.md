@@ -38,6 +38,18 @@ These open pre-filtered searches on big job sites in your browser (nothing is sc
 | software engineer | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=software%20engineer&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r259200&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/software-engineer-jobs-in-chennai?experience=1&jobAge=3) | [Indeed](https://in.indeed.com/jobs?q=software+engineer&l=Chennai%2C+Tamil+Nadu&fromage=3) |
 | graduate engineer trainee | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=graduate%20engineer%20trainee&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r259200&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/graduate-engineer-trainee-jobs-in-chennai?experience=1&jobAge=3) | [Indeed](https://in.indeed.com/jobs?q=graduate+engineer+trainee&l=Chennai%2C+Tamil+Nadu&fromage=3) |
 
+## Last 5 days
+
+| Keyword | LinkedIn | Naukri | Indeed |
+|---|---|---|---|
+| full stack developer | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=full%20stack%20developer&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r432000&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/full-stack-developer-jobs-in-chennai?experience=1&jobAge=7) | [Indeed](https://in.indeed.com/jobs?q=full+stack+developer&l=Chennai%2C+Tamil+Nadu&fromage=7) |
+| react developer | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=react%20developer&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r432000&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/react-developer-jobs-in-chennai?experience=1&jobAge=7) | [Indeed](https://in.indeed.com/jobs?q=react+developer&l=Chennai%2C+Tamil+Nadu&fromage=7) |
+| .net developer | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=.net%20developer&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r432000&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/net-developer-jobs-in-chennai?experience=1&jobAge=7) | [Indeed](https://in.indeed.com/jobs?q=.net+developer&l=Chennai%2C+Tamil+Nadu&fromage=7) |
+| flutter developer | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=flutter%20developer&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r432000&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/flutter-developer-jobs-in-chennai?experience=1&jobAge=7) | [Indeed](https://in.indeed.com/jobs?q=flutter+developer&l=Chennai%2C+Tamil+Nadu&fromage=7) |
+| python developer | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=python%20developer&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r432000&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/python-developer-jobs-in-chennai?experience=1&jobAge=7) | [Indeed](https://in.indeed.com/jobs?q=python+developer&l=Chennai%2C+Tamil+Nadu&fromage=7) |
+| software engineer | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=software%20engineer&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r432000&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/software-engineer-jobs-in-chennai?experience=1&jobAge=7) | [Indeed](https://in.indeed.com/jobs?q=software+engineer&l=Chennai%2C+Tamil+Nadu&fromage=7) |
+| graduate engineer trainee | [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=graduate%20engineer%20trainee&location=Chennai%2C%20Tamil%20Nadu%2C%20India&f_TPR=r432000&f_E=1%2C2%2C3) | [Naukri](https://www.naukri.com/graduate-engineer-trainee-jobs-in-chennai?experience=1&jobAge=7) | [Indeed](https://in.indeed.com/jobs?q=graduate+engineer+trainee&l=Chennai%2C+Tamil+Nadu&fromage=7) |
+
 ## Last 7 days
 
 | Keyword | LinkedIn | Naukri | Indeed |
