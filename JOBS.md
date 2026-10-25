@@ -1,10 +1,10 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-10-25 16:00 UTC - 26 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-10-25 17:08 UTC - 26 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 5 days](windows/last-5d.md) (0) | [Last 7 days](windows/last-7d.md) (1) | [Last 14 days](windows/last-14d.md) (16) | [Last 30 days (1 month)](windows/last-30d.md) (19)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (1) | [Last 14 days](windows/last-14d.md) (16) | [Last 30 days (1 month)](windows/last-30d.md) (19)
 
 ## Last 7 days (1)
 
@@ -18,7 +18,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 311 | 43 | 27 | 26 |
+| Amazon | OK | 312 | 43 | 27 | 26 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -40,7 +40,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Coinbase | OK | 227 | 0 | 0 | 0 |
 | Palantir | OK | 309 | 0 | 0 | 0 |
 | Spotify | OK | 90 | 0 | 0 | 0 |
-| OpenAI | OK | 794 | 0 | 0 | 0 |
+| OpenAI | OK | 793 | 0 | 0 | 0 |
 | Notion | OK | 140 | 0 | 0 | 0 |
 
 </details>
