@@ -1,10 +1,11 @@
-# Last 30 days (1 month) - 19 jobs
+# Last 30 days (1 month) - 17 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 9d ago | [Apply](https://www.amazon.jobs/en/jobs/10582819/digital-associate-ring-data-engineering-services) | [JD](../jds/1fc294c890.md) |
+|  | Amazon | Software Development Engineer II, Alexa Excellence | Chennai, Tamil Nadu, IND | 18h ago | [Apply](https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence) | [JD](../jds/38c2000626.md) |
+|  | Amazon | Software Development Engineer, Alexa Excellence | Chennai, Tamil Nadu, IND | 18h ago | [Apply](https://www.amazon.jobs/en/jobs/10591316/software-development-engineer-alexa-excellence) | [JD](../jds/db96c08de6.md) |
 |  | Amazon | Software Development Engineer II | Chennai, Tamil Nadu, IND | 12d ago | [Apply](https://www.amazon.jobs/en/jobs/10581088/software-development-engineer-ii) | [JD](../jds/1cf1ee1126.md) |
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 14d ago | [Apply](https://www.amazon.jobs/en/jobs/10578788/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/cd99acfab5.md) |
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 14d ago | [Apply](https://www.amazon.jobs/en/jobs/10578791/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/c20e2f109c.md) |
@@ -19,9 +20,6 @@
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 14d ago | [Apply](https://www.amazon.jobs/en/jobs/10578792/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/948ae9a3d0.md) |
 |  | Amazon | Digital Associate I, MLDOps | Chennai, Tamil Nadu, IND | 16d ago | [Apply](https://www.amazon.jobs/en/jobs/10575829/digital-associate-i-mldops) | [JD](../jds/4f92f7637f.md) |
 |  | Amazon | Associate - Retail Process, CMT | Chennai, Tamil Nadu, IND | 16d ago | [Apply](https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt) | [JD](../jds/26a7eabe0b.md) |
-|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 16d ago | [Apply](https://www.amazon.jobs/en/jobs/10576424/digital-associate-ring-data-engineering-services) | [JD](../jds/7fdc66f958.md) |
 |  | Amazon | Visual Design Associate, Prime Video - GSS, GSS - Design Production | Chennai, Tamil Nadu, IND | 20d ago | [Apply](https://www.amazon.jobs/en/jobs/10572989/visual-design-associate-prime-video-gss-gss-design-production) | [JD](../jds/084ed515a6.md) |
-|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 20d ago | [Apply](https://www.amazon.jobs/en/jobs/10574111/digital-associate-ring-data-engineering-services) | [JD](../jds/0852002bc2.md) |
-|  | Amazon | Digital Associate, Ring Data Engineering Services | Chennai, Tamil Nadu, IND | 20d ago | [Apply](https://www.amazon.jobs/en/jobs/10574110/digital-associate-ring-data-engineering-services) | [JD](../jds/d2ec804df1.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
