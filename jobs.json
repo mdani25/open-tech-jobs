@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T07:23:41.786482+00:00",
- "count": 23,
+ "updated": "2026-10-29T19:05:05.325629+00:00",
+ "count": 24,
  "jobs": [
   {
    "title": "Software Development Engineer, Alexa Connections",
@@ -17,6 +17,20 @@
    "posted_exact": true,
    "jd_file": "2688094265.md",
    "summary": "Are you ready to be at the forefront of Agentic AI innovation and redefine the future of communication? Join our dynamic Alexa Connections team as an SDE, and lead futuristic agentic AI initiatives that will shape the next generation of intelligent, conversational experiences. In this role, you'll..."
+  },
+  {
+   "title": "Software Development Engineer, Alexa Connections",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10592247/software-development-engineer-alexa-connections",
+   "posted": "2026-10-29T00:00:00+00:00",
+   "company": "Amazon",
+   "years": 2,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-10-29T19:05:05.325629+00:00",
+   "posted_exact": true,
+   "jd_file": "f4eb66f092.md",
+   "summary": "Do you want to shape how people stay connected across calls, text, and email? Alexa Connections is building a trusted communication agent that understands intent, context, and relationships, then acts on a customer's behalf to make every interaction feel natural. As a Software Development Engineer..."
   },
   {
    "title": "Software Development Engineer II, Alexa Excellence",
