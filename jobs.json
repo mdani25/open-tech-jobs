@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-28T18:57:42.650224+00:00",
- "count": 24,
+ "updated": "2026-10-29T07:23:41.786482+00:00",
+ "count": 23,
  "jobs": [
+  {
+   "title": "Software Development Engineer, Alexa Connections",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10592055/software-development-engineer-alexa-connections",
+   "posted": "2026-10-29T00:00:00+00:00",
+   "company": "Amazon",
+   "years": 2,
+   "matched": [
+    "full-stack"
+   ],
+   "match": 1,
+   "first_seen": "2026-10-29T07:23:41.786482+00:00",
+   "posted_exact": true,
+   "jd_file": "2688094265.md",
+   "summary": "Are you ready to be at the forefront of Agentic AI innovation and redefine the future of communication? Join our dynamic Alexa Connections team as an SDE, and lead futuristic agentic AI initiatives that will shape the next generation of intelligent, conversational experiences. In this role, you'll..."
+  },
   {
    "title": "Software Development Engineer II, Alexa Excellence",
    "location": "Chennai, Tamil Nadu, IND",
@@ -273,34 +289,6 @@
    "posted_exact": true,
    "jd_file": "f890043354.md",
    "summary": "At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our Software Development Engineers (SDEs) use cutting-edge..."
-  },
-  {
-   "title": "WiFi Software Development Engineer, eero",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10558338/wifi-software-development-engineer-eero",
-   "posted": "2026-09-23T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 3,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-10-18T16:28:59.560528+00:00",
-   "posted_exact": true,
-   "jd_file": "3f10d1e644.md",
-   "summary": "We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols, WiFi, and broader networking concepts. This role is critical in handling escalations, particularly..."
-  },
-  {
-   "title": "WiFi Software Development Engineer, eero",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10558339/wifi-software-development-engineer-eero",
-   "posted": "2026-09-23T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 3,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-10-18T16:28:59.560528+00:00",
-   "posted_exact": true,
-   "jd_file": "b77c4a042b.md",
-   "summary": "We are looking for a Software Development Engineer to join our team at eero. The ideal candidate will be passionate about networking, with a deep understanding of Ethernet, network security protocols, WiFi, and broader networking concepts. This role is critical in handling escalations, particularly..."
   },
   {
    "title": "Software Development Engineer II, Amazon Payment Services",
