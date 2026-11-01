@@ -1,4 +1,4 @@
-# Last 30 days (1 month) - 14 jobs
+# Last 30 days (1 month) - 12 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
@@ -9,9 +9,7 @@
 |  | Amazon | Software Development Engineer II, Alexa Excellence | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence) | [JD](../jds/38c2000626.md) |
 |  | Amazon | Software Development Engineer, Alexa Excellence | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10591316/software-development-engineer-alexa-excellence) | [JD](../jds/db96c08de6.md) |
 |  | Amazon | Software Development Engineer II | Chennai, Tamil Nadu, IND | 16d ago | [Apply](https://www.amazon.jobs/en/jobs/10581088/software-development-engineer-ii) | [JD](../jds/1cf1ee1126.md) |
-|  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10578788/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/cd99acfab5.md) |
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10578791/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/c20e2f109c.md) |
-|  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10578785/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/dd678953eb.md) |
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10578786/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/51999c954f.md) |
 |  | Amazon | Digital Supply Chain Associate, Prime Video Publishing Operations | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10578793/digital-supply-chain-associate-prime-video-publishing-operations) | [JD](../jds/a7128b9118.md) |
 |  | Amazon | Software Development Engineer, Fire Tablet | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10578772/software-development-engineer-fire-tablet) | [JD](../jds/f9373a8605.md) |
