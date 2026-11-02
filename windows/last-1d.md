@@ -1,7 +1,9 @@
-# Last 24 hours - 0 jobs
+# Last 24 hours - 1 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
-_No jobs in this window._
+| Match | Company | Role | Location | Posted | Apply | JD |
+|---|---|---|---|---|---|---|
+|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 7h ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](../jds/88abc6eb7a.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._

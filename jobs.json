@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-01T18:28:21.218619+00:00",
- "count": 17,
+ "updated": "2026-11-02T07:53:23.955204+00:00",
+ "count": 15,
  "jobs": [
+  {
+   "title": "Software Development Engineer, Alexa Connections",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections",
+   "posted": "2026-11-02T00:00:00+00:00",
+   "company": "Amazon",
+   "years": 2,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-02T07:53:23.955204+00:00",
+   "posted_exact": true,
+   "jd_file": "88abc6eb7a.md",
+   "summary": "Alexa Connections is on a mission to become the world's most trusted communication agent, spanning across calls, text, email, and the ever-expanding surfaces where people connect. We're building intelligence that keeps customers connected effortlessly to their network and beyond, while putting..."
+  },
   {
    "title": "Software Development Engineer, Alexa Connections",
    "location": "Chennai, Tamil Nadu, IND",
@@ -75,54 +89,6 @@
    "posted_exact": true,
    "jd_file": "1cf1ee1126.md",
    "summary": "Are you an innovative and accomplished professional seeking for a role with a significant impact and growth? Amazon is looking for a dynamic Software Development Engineer to join our core team in the Books org with a focus on AbeBooks automation and modernization initiatives. In this role, you will..."
-  },
-  {
-   "title": "Digital Supply Chain Associate, Prime Video Publishing Operations",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578791/digital-supply-chain-associate-prime-video-publishing-operations",
-   "posted": "2026-10-14T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 0,
-   "matched": [
-    "sql"
-   ],
-   "match": 1,
-   "first_seen": "2026-10-18T16:28:59.560528+00:00",
-   "posted_exact": true,
-   "jd_file": "c20e2f109c.md",
-   "summary": "We are looking for a detail-oriented and motivated Publishing Operations Associate to join the Prime Video Publishing Operations team. In this role, you will be responsible for ensuring timely and accurate publishing of content across Prime Video's global catalog, supporting the end-to-end content..."
-  },
-  {
-   "title": "Digital Supply Chain Associate, Prime Video Publishing Operations",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578786/digital-supply-chain-associate-prime-video-publishing-operations",
-   "posted": "2026-10-14T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 0,
-   "matched": [
-    "sql"
-   ],
-   "match": 1,
-   "first_seen": "2026-10-18T16:28:59.560528+00:00",
-   "posted_exact": true,
-   "jd_file": "51999c954f.md",
-   "summary": "We are looking for a detail-oriented and motivated Publishing Operations Associate to join the Prime Video Publishing Operations team. In this role, you will be responsible for ensuring timely and accurate publishing of content across Prime Video's global catalog, supporting the end-to-end content..."
-  },
-  {
-   "title": "Digital Supply Chain Associate, Prime Video Publishing Operations",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578793/digital-supply-chain-associate-prime-video-publishing-operations",
-   "posted": "2026-10-14T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 0,
-   "matched": [
-    "sql"
-   ],
-   "match": 1,
-   "first_seen": "2026-10-18T16:28:59.560528+00:00",
-   "posted_exact": true,
-   "jd_file": "a7128b9118.md",
-   "summary": "We are looking for a detail-oriented and motivated Publishing Operations Associate to join the Prime Video Publishing Operations team. In this role, you will be responsible for ensuring timely and accurate publishing of content across Prime Video's global catalog, supporting the end-to-end content..."
   },
   {
    "title": "Software Development Engineer, Fire Tablet",
