@@ -1,16 +1,30 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-02 07:53 UTC - 15 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-02 22:24 UTC - 29 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (1) | [Last 2 days](windows/last-2d.md) (1) | [Last 3 days](windows/last-3d.md) (1) | [Last 7 days](windows/last-7d.md) (5) | [Last 14 days](windows/last-14d.md) (5) | [Last 30 days (1 month)](windows/last-30d.md) (10)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (15) | [Last 2 days](windows/last-2d.md) (15) | [Last 3 days](windows/last-3d.md) (15) | [Last 7 days](windows/last-7d.md) (19) | [Last 14 days](windows/last-14d.md) (19) | [Last 30 days (1 month)](windows/last-30d.md) (24)
 
-## Last 7 days (5)
+## Last 7 days (19)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 7h ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](jds/88abc6eb7a.md) |
+|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](jds/88abc6eb7a.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583660/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/27ef887835.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583644/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/f1a2641525.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583643/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/6f6bdc6b43.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583642/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/439c851c77.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583641/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/46c297990d.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583640/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/364f8b8078.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583639/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/e169bfb4d2.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583637/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/9a6102fe33.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2e9efd8c24.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583635/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/112df510dd.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583634/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/1659af2cfb.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583632/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/cc8c9b66bc.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2cbc890f8f.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/7d230293b7.md) |
 |  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10592055/software-development-engineer-alexa-connections) | [JD](jds/2688094265.md) |
 |  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10592247/software-development-engineer-alexa-connections) | [JD](jds/f4eb66f092.md) |
 |  | Amazon | Software Development Engineer II, Alexa Excellence | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence) | [JD](jds/38c2000626.md) |
@@ -22,12 +36,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 298 | 31 | 16 | 15 |
+| Amazon | OK | 298 | 44 | 30 | 29 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
 | Salesforce | OK | 1 | 1 | 0 | 0 |
-| Freshworks | OK | 125 | 17 | 0 | 0 |
+| Freshworks | OK | 123 | 17 | 0 | 0 |
 | Zeta | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Capillary Technologies | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Gramener | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
@@ -36,15 +50,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 746 | 0 | 0 | 0 |
-| Cloudflare | OK | 467 | 0 | 0 | 0 |
+| Stripe | OK | 743 | 0 | 0 | 0 |
+| Cloudflare | OK | 471 | 0 | 0 | 0 |
 | Databricks | OK | 911 | 0 | 0 | 0 |
-| Datadog | OK | 396 | 0 | 0 | 0 |
-| Twilio | OK | 132 | 0 | 0 | 0 |
-| Coinbase | OK | 252 | 0 | 0 | 0 |
-| Palantir | OK | 301 | 0 | 0 | 0 |
-| Spotify | OK | 88 | 0 | 0 | 0 |
-| OpenAI | OK | 811 | 0 | 0 | 0 |
-| Notion | OK | 148 | 0 | 0 | 0 |
+| Datadog | OK | 405 | 0 | 0 | 0 |
+| Twilio | OK | 133 | 0 | 0 | 0 |
+| Coinbase | OK | 268 | 0 | 0 | 0 |
+| Palantir | OK | 305 | 0 | 0 | 0 |
+| Spotify | OK | 85 | 0 | 0 | 0 |
+| OpenAI | OK | 803 | 0 | 0 | 0 |
+| Notion | OK | 146 | 0 | 0 | 0 |
 
 </details>

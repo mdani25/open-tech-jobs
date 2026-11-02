@@ -1,9 +1,23 @@
-# Last 24 hours - 1 jobs
+# Last 24 hours - 15 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 7h ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](../jds/88abc6eb7a.md) |
+|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](../jds/88abc6eb7a.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583660/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/27ef887835.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583644/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/f1a2641525.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583643/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/6f6bdc6b43.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583642/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/439c851c77.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583641/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/46c297990d.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583640/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/364f8b8078.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583639/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/e169bfb4d2.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583637/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/9a6102fe33.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/2e9efd8c24.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583635/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/112df510dd.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583634/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/1659af2cfb.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583632/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/cc8c9b66bc.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/2cbc890f8f.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/7d230293b7.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
