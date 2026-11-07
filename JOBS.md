@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-06 20:00 UTC - 18 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-07 07:28 UTC - 18 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -10,11 +10,11 @@ _Last updated: 2026-11-06 20:00 UTC - 18 open roles from 13 working company boar
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](jds/88abc6eb7a.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10583644/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/f1a2641525.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2e9efd8c24.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2cbc890f8f.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/7d230293b7.md) |
+|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](jds/88abc6eb7a.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583644/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/f1a2641525.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2e9efd8c24.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2cbc890f8f.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/7d230293b7.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -22,7 +22,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 300 | 33 | 19 | 18 |
+| Amazon | OK | 302 | 33 | 19 | 18 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -36,12 +36,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 766 | 0 | 0 | 0 |
-| Cloudflare | OK | 461 | 0 | 0 | 0 |
-| Databricks | OK | 928 | 0 | 0 | 0 |
-| Datadog | OK | 398 | 0 | 0 | 0 |
-| Twilio | OK | 127 | 0 | 0 | 0 |
-| Coinbase | OK | 283 | 0 | 0 | 0 |
+| Stripe | OK | 765 | 0 | 0 | 0 |
+| Cloudflare | OK | 464 | 0 | 0 | 0 |
+| Databricks | OK | 924 | 0 | 0 | 0 |
+| Datadog | OK | 400 | 0 | 0 | 0 |
+| Twilio | OK | 128 | 0 | 0 | 0 |
+| Coinbase | OK | 284 | 0 | 0 | 0 |
 | Palantir | OK | 305 | 0 | 0 | 0 |
 | Spotify | OK | 85 | 0 | 0 | 0 |
 | OpenAI | OK | 820 | 0 | 0 | 0 |
