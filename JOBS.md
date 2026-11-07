@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-07 07:28 UTC - 18 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-07 18:08 UTC - 18 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -22,7 +22,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 302 | 33 | 19 | 18 |
+| Amazon | OK | 300 | 33 | 19 | 18 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -36,7 +36,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 765 | 0 | 0 | 0 |
+| Stripe | OK | 766 | 0 | 0 | 0 |
 | Cloudflare | OK | 464 | 0 | 0 | 0 |
 | Databricks | OK | 924 | 0 | 0 | 0 |
 | Datadog | OK | 400 | 0 | 0 | 0 |
@@ -44,7 +44,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Coinbase | OK | 284 | 0 | 0 | 0 |
 | Palantir | OK | 305 | 0 | 0 | 0 |
 | Spotify | OK | 85 | 0 | 0 | 0 |
-| OpenAI | OK | 820 | 0 | 0 | 0 |
+| OpenAI | OK | 819 | 0 | 0 | 0 |
 | Notion | OK | 154 | 0 | 0 | 0 |
 
 </details>
