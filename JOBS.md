@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-07 18:08 UTC - 18 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-08 07:39 UTC - 18 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -10,11 +10,11 @@ _Last updated: 2026-11-07 18:08 UTC - 18 open roles from 13 working company boar
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](jds/88abc6eb7a.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583644/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/f1a2641525.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2e9efd8c24.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2cbc890f8f.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/7d230293b7.md) |
+|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](jds/88abc6eb7a.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583644/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/f1a2641525.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2e9efd8c24.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2cbc890f8f.md) |
+|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/7d230293b7.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -38,13 +38,13 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Stripe | OK | 766 | 0 | 0 | 0 |
 | Cloudflare | OK | 464 | 0 | 0 | 0 |
-| Databricks | OK | 924 | 0 | 0 | 0 |
-| Datadog | OK | 400 | 0 | 0 | 0 |
+| Databricks | OK | 922 | 0 | 0 | 0 |
+| Datadog | OK | 401 | 0 | 0 | 0 |
 | Twilio | OK | 128 | 0 | 0 | 0 |
 | Coinbase | OK | 284 | 0 | 0 | 0 |
 | Palantir | OK | 305 | 0 | 0 | 0 |
 | Spotify | OK | 85 | 0 | 0 | 0 |
-| OpenAI | OK | 819 | 0 | 0 | 0 |
+| OpenAI | OK | 818 | 0 | 0 | 0 |
 | Notion | OK | 154 | 0 | 0 | 0 |
 
 </details>
