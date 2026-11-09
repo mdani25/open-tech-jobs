@@ -1,20 +1,14 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-08 18:25 UTC - 18 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-09 08:19 UTC - 21 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (5) | [Last 14 days](windows/last-14d.md) (9) | [Last 30 days (1 month)](windows/last-30d.md) (13)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (0) | [Last 14 days](windows/last-14d.md) (11) | [Last 30 days (1 month)](windows/last-30d.md) (16)
 
-## Last 7 days (5)
+## Last 7 days (0)
 
-| Match | Company | Role | Location | Posted | Apply | JD |
-|---|---|---|---|---|---|---|
-|  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](jds/88abc6eb7a.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583644/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/f1a2641525.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2e9efd8c24.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/2cbc890f8f.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](jds/7d230293b7.md) |
+_No matching jobs. Open the **Coverage report** below to see where jobs were filtered out._
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -22,7 +16,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 299 | 33 | 19 | 18 |
+| Amazon | OK | 301 | 36 | 22 | 21 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -36,15 +30,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 766 | 0 | 0 | 0 |
+| Stripe | OK | 768 | 0 | 0 | 0 |
 | Cloudflare | OK | 464 | 0 | 0 | 0 |
-| Databricks | OK | 922 | 0 | 0 | 0 |
-| Datadog | OK | 401 | 0 | 0 | 0 |
-| Twilio | OK | 128 | 0 | 0 | 0 |
+| Databricks | OK | 921 | 0 | 0 | 0 |
+| Datadog | OK | 402 | 0 | 0 | 0 |
+| Twilio | OK | 129 | 0 | 0 | 0 |
 | Coinbase | OK | 283 | 0 | 0 | 0 |
 | Palantir | OK | 305 | 0 | 0 | 0 |
 | Spotify | OK | 85 | 0 | 0 | 0 |
-| OpenAI | OK | 816 | 0 | 0 | 0 |
+| OpenAI | OK | 813 | 0 | 0 | 0 |
 | Notion | OK | 154 | 0 | 0 | 0 |
 
 </details>

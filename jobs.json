@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T18:25:03.502693+00:00",
- "count": 18,
+ "updated": "2026-11-09T08:19:01.060115+00:00",
+ "count": 21,
  "jobs": [
   {
    "title": "Software Development Engineer, Alexa Connections",
@@ -103,6 +103,34 @@
    "summary": "Do you want to shape how people stay connected across calls, text, and email? Alexa Connections is building a trusted communication agent that understands intent, context, and relationships, then acts on a customer's behalf to make every interaction feel natural. As a Software Development Engineer..."
   },
   {
+   "title": "Digital Content Associate, Amazon Music",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10592375/digital-content-associate-amazon-music",
+   "posted": "2026-10-29T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-09T08:19:01.060115+00:00",
+   "posted_exact": true,
+   "jd_file": "073c415e2f.md",
+   "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
+  },
+  {
+   "title": "Digital Content Associate, Amazon Music",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10592376/digital-content-associate-amazon-music",
+   "posted": "2026-10-29T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-09T08:19:01.060115+00:00",
+   "posted_exact": true,
+   "jd_file": "0f35a476a7.md",
+   "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
+  },
+  {
    "title": "Software Development Engineer II, Alexa Excellence",
    "location": "Chennai, Tamil Nadu, IND",
    "url": "https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence",
@@ -129,6 +157,20 @@
    "posted_exact": true,
    "jd_file": "db96c08de6.md",
    "summary": "Are you customer-obsessed and interested in Speech and Language Understanding? If so, the Alexa Excellence Team in Bangalore/Chennai is looking for a talented engineer to help revolutionize our voice-forward experience. Alexa is the Amazon service that powers the Echo family of devices, Fire TV,..."
+  },
+  {
+   "title": "Digital Content Associate, Amazon Music",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10588979/digital-content-associate-amazon-music",
+   "posted": "2026-10-26T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-09T08:19:01.060115+00:00",
+   "posted_exact": true,
+   "jd_file": "4b54a21bc3.md",
+   "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
   },
   {
    "title": "Software Development Engineer II",
@@ -161,20 +203,6 @@
    "summary": "We are looking for passionate, hard-working, and talented Software Engineers who has experience in building innovative, mission critical, high volume applications & services. You will have an enormous opportunity to make a large impact on the design, architecture, and implementation of high quality..."
   },
   {
-   "title": "Digital Supply Chain Associate, Prime Video Publishing Operations",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578792/digital-supply-chain-associate-prime-video-publishing-operations",
-   "posted": "2026-10-14T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-06T20:00:13.418030+00:00",
-   "posted_exact": true,
-   "jd_file": "948ae9a3d0.md",
-   "summary": "We are looking for a Media Asset Correction Associate to join our team, specializing in quality assessment and corrective editing of Prime Video audio, video, and subtitle assets. This role is responsible for ensuring that all playable media assets meet the required technical specifications and..."
-  },
-  {
    "title": "Digital Associate I, MLDOps",
    "location": "Chennai, Tamil Nadu, IND",
    "url": "https://www.amazon.jobs/en/jobs/10575829/digital-associate-i-mldops",
@@ -187,6 +215,20 @@
    "posted_exact": true,
    "jd_file": "4f92f7637f.md",
    "summary": "Understand and work on defined sets of instructions, procedures, and guidelines for new tasks and releases. Perform repetitive exercises based on dynamic instructions without compromising quality. Prioritize and handle multiple assignments while meeting deadlines. Complete complex tasks with..."
+  },
+  {
+   "title": "Associate - Retail Process, CMT",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt",
+   "posted": "2026-10-12T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-09T08:19:01.060115+00:00",
+   "posted_exact": true,
+   "jd_file": "26a7eabe0b.md",
+   "summary": "In this role, you will be responsible to monitor and ensure the accuracy of the pricing analytics & operations team through audits and process improvement activities. The job involves auditing operations teams` & system outputs, suggesting and implementing process/system improvements, and..."
   },
   {
    "title": "Software Dev Engineer II, Amazon Payment Services",
