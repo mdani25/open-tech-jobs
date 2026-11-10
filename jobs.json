@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-09T23:04:09.803741+00:00",
- "count": 20,
+ "updated": "2026-11-10T08:37:00.351365+00:00",
+ "count": 21,
  "jobs": [
+  {
+   "title": "DSC Associate, Prime Video Sports",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports",
+   "posted": "2026-11-10T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-10T08:37:00.351365+00:00",
+   "posted_exact": true,
+   "jd_file": "dfeceb71e2.md",
+   "summary": "Are you interested in shaping the future of live sports broadcasting? Do you want to set high standards on how Amazon customers are watching live sports? If so, you might be the right person for the Content Associate role on the Prime Video Live Events team, which brings new sports leagues and..."
+  },
   {
    "title": "Software Development Engineer, Alexa Connections",
    "location": "Chennai, Tamil Nadu, IND",
