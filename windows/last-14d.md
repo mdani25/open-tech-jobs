@@ -4,7 +4,7 @@
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 8h ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](../jds/dfeceb71e2.md) |
+|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 20h ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](../jds/dfeceb71e2.md) |
 |  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 8d ago | [Apply](https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections) | [JD](../jds/88abc6eb7a.md) |
 |  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 8d ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/2e9efd8c24.md) |
 |  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 8d ago | [Apply](https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/2cbc890f8f.md) |
