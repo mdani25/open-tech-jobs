@@ -1,7 +1,35 @@
 {
- "updated": "2026-11-10T20:31:42.729229+00:00",
- "count": 21,
+ "updated": "2026-11-11T07:57:09.130012+00:00",
+ "count": 23,
  "jobs": [
+  {
+   "title": "Associate, Quality Services, Amazon Kids",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids",
+   "posted": "2026-11-11T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-11T07:57:09.130012+00:00",
+   "posted_exact": true,
+   "jd_file": "4f81b1b8c8.md",
+   "summary": "The Quality Services (QS) organization provides testing support for Devices, Retail, and AWS products. The primary objective of the QS organization is to provide manual testing support. As an Associate, Quality Services, you will perform manual test execution of documented task instructions,..."
+  },
+  {
+   "title": "Associate, Quality Services, Amazon Kids",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids",
+   "posted": "2026-11-11T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-11T07:57:09.130012+00:00",
+   "posted_exact": true,
+   "jd_file": "41b3471151.md",
+   "summary": "The Quality Services (QS) organization provides testing support for Devices, Retail, and AWS products. The primary objective of the QS organization is to provide manual testing support. As an Associate, Quality Services, you will perform manual test execution of documented task instructions,..."
+  },
   {
    "title": "DSC Associate, Prime Video Sports",
    "location": "Chennai, Tamil Nadu, IND",

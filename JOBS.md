@@ -1,16 +1,18 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-10 20:31 UTC - 21 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-11 07:57 UTC - 23 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (1) | [Last 2 days](windows/last-2d.md) (1) | [Last 3 days](windows/last-3d.md) (1) | [Last 7 days](windows/last-7d.md) (1) | [Last 14 days](windows/last-14d.md) (11) | [Last 30 days (1 month)](windows/last-30d.md) (16)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (2) | [Last 2 days](windows/last-2d.md) (3) | [Last 3 days](windows/last-3d.md) (3) | [Last 7 days](windows/last-7d.md) (3) | [Last 14 days](windows/last-14d.md) (11) | [Last 30 days (1 month)](windows/last-30d.md) (16)
 
-## Last 7 days (1)
+## Last 7 days (3)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 20h ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](jds/dfeceb71e2.md) |
+|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 7h ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](jds/4f81b1b8c8.md) |
+|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 7h ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](jds/41b3471151.md) |
+|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 1d ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](jds/dfeceb71e2.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -18,7 +20,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 300 | 37 | 22 | 21 |
+| Amazon | OK | 305 | 40 | 24 | 23 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -32,15 +34,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 775 | 0 | 0 | 0 |
-| Cloudflare | OK | 468 | 0 | 0 | 0 |
-| Databricks | OK | 914 | 0 | 0 | 0 |
-| Datadog | OK | 395 | 0 | 0 | 0 |
-| Twilio | OK | 126 | 0 | 0 | 0 |
-| Coinbase | OK | 285 | 0 | 0 | 0 |
+| Stripe | OK | 779 | 0 | 0 | 0 |
+| Cloudflare | OK | 473 | 0 | 0 | 0 |
+| Databricks | OK | 919 | 0 | 0 | 0 |
+| Datadog | OK | 392 | 0 | 0 | 0 |
+| Twilio | OK | 125 | 0 | 0 | 0 |
+| Coinbase | OK | 286 | 0 | 0 | 0 |
 | Palantir | OK | 304 | 0 | 0 | 0 |
-| Spotify | OK | 84 | 0 | 0 | 0 |
-| OpenAI | OK | 831 | 0 | 0 | 0 |
-| Notion | OK | 155 | 0 | 0 | 0 |
+| Spotify | OK | 86 | 0 | 0 | 0 |
+| OpenAI | OK | 828 | 0 | 0 | 0 |
+| Notion | OK | 156 | 0 | 0 | 0 |
 
 </details>
