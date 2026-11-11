@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-11T07:57:09.130012+00:00",
- "count": 23,
+ "updated": "2026-11-11T20:17:05.126698+00:00",
+ "count": 22,
  "jobs": [
+  {
+   "title": "Associate, Quality Services, Device Tech support",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10602426/associate-quality-services-device-tech-support",
+   "posted": "2026-11-11T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-11T20:17:05.126698+00:00",
+   "posted_exact": true,
+   "jd_file": "0d341d6bf5.md",
+   "summary": "Quality Services (QS) organization provides testing support for Devices, Retail and AWS products. The primary objective of QS organization is to provide manual testing support. An Associate, Quality Services performs manual test execution of documented task instructions. They produce accurate test..."
+  },
   {
    "title": "Associate, Quality Services, Amazon Kids",
    "location": "Chennai, Tamil Nadu, IND",
@@ -84,20 +98,6 @@
    "first_seen": "2026-11-02T22:24:00.584569+00:00",
    "posted_exact": true,
    "jd_file": "2cbc890f8f.md",
-   "summary": "• Work on defined set of instructions to collect ground truth data for the product development. • Perform execution and report results accurately. • Understand procedures and guidelines for new tasks / releases • Perform repetitive exercises based on the dynamic instructions without compromising on..."
-  },
-  {
-   "title": "ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog",
-   "posted": "2026-11-02T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 2,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-02T22:24:00.584569+00:00",
-   "posted_exact": true,
-   "jd_file": "7d230293b7.md",
    "summary": "• Work on defined set of instructions to collect ground truth data for the product development. • Perform execution and report results accurately. • Understand procedures and guidelines for new tasks / releases • Perform repetitive exercises based on the dynamic instructions without compromising on..."
   },
   {
@@ -243,20 +243,6 @@
    "posted_exact": true,
    "jd_file": "4f92f7637f.md",
    "summary": "Understand and work on defined sets of instructions, procedures, and guidelines for new tasks and releases. Perform repetitive exercises based on dynamic instructions without compromising quality. Prioritize and handle multiple assignments while meeting deadlines. Complete complex tasks with..."
-  },
-  {
-   "title": "Associate - Retail Process, CMT",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt",
-   "posted": "2026-10-12T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-09T08:19:01.060115+00:00",
-   "posted_exact": true,
-   "jd_file": "26a7eabe0b.md",
-   "summary": "In this role, you will be responsible to monitor and ensure the accuracy of the pricing analytics & operations team through audits and process improvement activities. The job involves auditing operations teams` & system outputs, suggesting and implementing process/system improvements, and..."
   },
   {
    "title": "Software Dev Engineer II, Amazon Payment Services",
