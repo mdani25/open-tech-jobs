@@ -1,21 +1,7 @@
 {
- "updated": "2026-11-12T08:35:44.789202+00:00",
- "count": 22,
+ "updated": "2026-11-12T20:58:58.919986+00:00",
+ "count": 20,
  "jobs": [
-  {
-   "title": "Associate, Quality Services, Device Tech support",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10602426/associate-quality-services-device-tech-support",
-   "posted": "2026-11-11T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-11T20:17:05.126698+00:00",
-   "posted_exact": true,
-   "jd_file": "0d341d6bf5.md",
-   "summary": "Quality Services (QS) organization provides testing support for Devices, Retail and AWS products. The primary objective of QS organization is to provide manual testing support. An Associate, Quality Services performs manual test execution of documented task instructions. They produce accurate test..."
-  },
   {
    "title": "Associate, Quality Services, Amazon Kids",
    "location": "Chennai, Tamil Nadu, IND",
@@ -229,20 +215,6 @@
    "posted_exact": true,
    "jd_file": "f9373a8605.md",
    "summary": "We are looking for passionate, hard-working, and talented Software Engineers who has experience in building innovative, mission critical, high volume applications & services. You will have an enormous opportunity to make a large impact on the design, architecture, and implementation of high quality..."
-  },
-  {
-   "title": "Digital Associate I, MLDOps",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10575829/digital-associate-i-mldops",
-   "posted": "2026-10-12T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-10-18T16:28:59.560528+00:00",
-   "posted_exact": true,
-   "jd_file": "4f92f7637f.md",
-   "summary": "Understand and work on defined sets of instructions, procedures, and guidelines for new tasks and releases. Perform repetitive exercises based on dynamic instructions without compromising quality. Prioritize and handle multiple assignments while meeting deadlines. Complete complex tasks with..."
   },
   {
    "title": "Software Dev Engineer II, Amazon Payment Services",
