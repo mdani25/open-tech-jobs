@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T08:22:49.941496+00:00",
- "count": 20,
+ "updated": "2026-11-13T20:34:42.401202+00:00",
+ "count": 22,
  "jobs": [
   {
    "title": "Associate, Quality Services, Amazon Kids",
@@ -84,6 +84,20 @@
    "first_seen": "2026-11-02T22:24:00.584569+00:00",
    "posted_exact": true,
    "jd_file": "2cbc890f8f.md",
+   "summary": "• Work on defined set of instructions to collect ground truth data for the product development. • Perform execution and report results accurately. • Understand procedures and guidelines for new tasks / releases • Perform repetitive exercises based on the dynamic instructions without compromising on..."
+  },
+  {
+   "title": "ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog",
+   "posted": "2026-11-02T00:00:00+00:00",
+   "company": "Amazon",
+   "years": 2,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-13T20:34:42.401202+00:00",
+   "posted_exact": true,
+   "jd_file": "7d230293b7.md",
    "summary": "• Work on defined set of instructions to collect ground truth data for the product development. • Perform execution and report results accurately. • Understand procedures and guidelines for new tasks / releases • Perform repetitive exercises based on the dynamic instructions without compromising on..."
   },
   {
@@ -215,6 +229,20 @@
    "posted_exact": true,
    "jd_file": "f9373a8605.md",
    "summary": "We are looking for passionate, hard-working, and talented Software Engineers who has experience in building innovative, mission critical, high volume applications & services. You will have an enormous opportunity to make a large impact on the design, architecture, and implementation of high quality..."
+  },
+  {
+   "title": "Associate - Retail Process, CMT",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt",
+   "posted": "2026-10-12T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-13T20:34:42.401202+00:00",
+   "posted_exact": true,
+   "jd_file": "26a7eabe0b.md",
+   "summary": "In this role, you will be responsible to monitor and ensure the accuracy of the pricing analytics & operations team through audits and process improvement activities. The job involves auditing operations teams` & system outputs, suggesting and implementing process/system improvements, and..."
   },
   {
    "title": "Software Dev Engineer II, Amazon Payment Services",
