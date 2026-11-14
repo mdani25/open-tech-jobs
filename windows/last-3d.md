@@ -1,10 +1,7 @@
-# Last 3 days - 2 jobs
+# Last 3 days - 0 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
-| Match | Company | Role | Location | Posted | Apply | JD |
-|---|---|---|---|---|---|---|
-|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 2d ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](../jds/4f81b1b8c8.md) |
-|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 2d ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](../jds/41b3471151.md) |
+_No jobs in this window._
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
