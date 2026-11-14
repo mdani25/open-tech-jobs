@@ -1,4 +1,4 @@
-# Last 30 days (1 month) - 15 jobs
+# Last 30 days (1 month) - 14 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
@@ -16,7 +16,6 @@
 |  | Amazon | Digital Content Associate, Amazon Music | Chennai, Tamil Nadu, IND | 16d ago | [Apply](https://www.amazon.jobs/en/jobs/10592375/digital-content-associate-amazon-music) | [JD](../jds/073c415e2f.md) |
 |  | Amazon | Digital Content Associate, Amazon Music | Chennai, Tamil Nadu, IND | 16d ago | [Apply](https://www.amazon.jobs/en/jobs/10592376/digital-content-associate-amazon-music) | [JD](../jds/0f35a476a7.md) |
 |  | Amazon | Software Development Engineer II, Alexa Excellence | Chennai, Tamil Nadu, IND | 17d ago | [Apply](https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence) | [JD](../jds/38c2000626.md) |
-|  | Amazon | Software Development Engineer, Alexa Excellence | Chennai, Tamil Nadu, IND | 17d ago | [Apply](https://www.amazon.jobs/en/jobs/10591316/software-development-engineer-alexa-excellence) | [JD](../jds/db96c08de6.md) |
 |  | Amazon | Digital Content Associate, Amazon Music | Chennai, Tamil Nadu, IND | 19d ago | [Apply](https://www.amazon.jobs/en/jobs/10588979/digital-content-associate-amazon-music) | [JD](../jds/4b54a21bc3.md) |
 |  | Amazon | Software Development Engineer II | Chennai, Tamil Nadu, IND | 29d ago | [Apply](https://www.amazon.jobs/en/jobs/10581088/software-development-engineer-ii) | [JD](../jds/1cf1ee1126.md) |
 
