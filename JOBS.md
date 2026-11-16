@@ -1,18 +1,18 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-15 19:25 UTC - 20 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-16 08:13 UTC - 20 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (3) | [Last 14 days](windows/last-14d.md) (7) | [Last 30 days (1 month)](windows/last-30d.md) (13)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (3) | [Last 14 days](windows/last-14d.md) (3) | [Last 30 days (1 month)](windows/last-30d.md) (13)
 
 ## Last 7 days (3)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](jds/4f81b1b8c8.md) |
-|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](jds/41b3471151.md) |
-|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](jds/dfeceb71e2.md) |
+|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](jds/4f81b1b8c8.md) |
+|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](jds/41b3471151.md) |
+|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](jds/dfeceb71e2.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -20,7 +20,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 305 | 37 | 21 | 20 |
+| Amazon | OK | 304 | 37 | 21 | 20 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -35,14 +35,14 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Stripe | OK | 785 | 0 | 0 | 0 |
-| Cloudflare | OK | 479 | 0 | 0 | 0 |
+| Cloudflare | OK | 474 | 0 | 0 | 0 |
 | Databricks | OK | 895 | 0 | 0 | 0 |
-| Datadog | OK | 384 | 0 | 0 | 0 |
+| Datadog | OK | 381 | 0 | 0 | 0 |
 | Twilio | OK | 114 | 0 | 0 | 0 |
 | Coinbase | OK | 265 | 0 | 0 | 0 |
 | Palantir | OK | 302 | 0 | 0 | 0 |
 | Spotify | OK | 87 | 0 | 0 | 0 |
-| OpenAI | OK | 837 | 0 | 0 | 0 |
+| OpenAI | OK | 838 | 0 | 0 | 0 |
 | Notion | OK | 165 | 0 | 0 | 0 |
 
 </details>
