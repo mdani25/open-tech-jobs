@@ -1,18 +1,17 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-16 22:57 UTC - 20 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-17 09:28 UTC - 21 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (3) | [Last 14 days](windows/last-14d.md) (3) | [Last 30 days (1 month)](windows/last-30d.md) (13)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (2) | [Last 14 days](windows/last-14d.md) (3) | [Last 30 days (1 month)](windows/last-30d.md) (13)
 
-## Last 7 days (3)
+## Last 7 days (2)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](jds/4f81b1b8c8.md) |
-|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 5d ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](jds/41b3471151.md) |
-|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](jds/dfeceb71e2.md) |
+|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](jds/4f81b1b8c8.md) |
+|  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](jds/41b3471151.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
 
@@ -20,12 +19,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 305 | 37 | 21 | 20 |
+| Amazon | OK | 304 | 38 | 22 | 21 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
 | Salesforce | OK | 0 | 0 | 0 | 0 |
-| Freshworks | OK | 121 | 16 | 0 | 0 |
+| Freshworks | OK | 116 | 15 | 0 | 0 |
 | Zeta | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Capillary Technologies | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Gramener | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
@@ -34,15 +33,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 790 | 0 | 0 | 0 |
-| Cloudflare | OK | 470 | 0 | 0 | 0 |
-| Databricks | OK | 891 | 0 | 0 | 0 |
+| Stripe | OK | 792 | 0 | 0 | 0 |
+| Cloudflare | OK | 472 | 0 | 0 | 0 |
+| Databricks | OK | 892 | 0 | 0 | 0 |
 | Datadog | OK | 382 | 0 | 0 | 0 |
-| Twilio | OK | 110 | 0 | 0 | 0 |
-| Coinbase | OK | 262 | 0 | 0 | 0 |
+| Twilio | OK | 113 | 0 | 0 | 0 |
+| Coinbase | OK | 260 | 0 | 0 | 0 |
 | Palantir | OK | 303 | 0 | 0 | 0 |
 | Spotify | OK | 88 | 0 | 0 | 0 |
-| OpenAI | OK | 834 | 0 | 0 | 0 |
-| Notion | OK | 165 | 0 | 0 | 0 |
+| OpenAI | OK | 841 | 0 | 0 | 0 |
+| Notion | OK | 164 | 0 | 0 | 0 |
 
 </details>
