@@ -1,7 +1,53 @@
 {
- "updated": "2026-11-17T09:28:11.194773+00:00",
- "count": 21,
+ "updated": "2026-11-17T21:50:40.742366+00:00",
+ "count": 23,
  "jobs": [
+  {
+   "title": "Software Development Engineer - Agentic Data Infrastructure, Partner Data And Analytics",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10602100/software-development-engineer-agentic-data-infrastructure-partner-data-and-analytics",
+   "posted": "2026-11-17T00:00:00+00:00",
+   "company": "Amazon",
+   "years": 3,
+   "matched": [
+    "react",
+    "python",
+    "java"
+   ],
+   "match": 3,
+   "first_seen": "2026-11-17T21:50:40.742366+00:00",
+   "posted_exact": true,
+   "jd_file": "ed2f77fe67.md",
+   "summary": "The Data Services team within PDNA (Partner Data And Analytics) builds and operates the Agentic Data Platform that powers Amazon's Selling Partner analytics infrastructure. We serve 900K+ Selling Partners and 30K+ Amazonians through 4,000+ standardized metrics, real-time streaming pipelines..."
+  },
+  {
+   "title": "DSC Associate, Prime Video Sports",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10598698/dsc-associate-prime-video-sports",
+   "posted": "2026-11-17T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-17T21:50:40.742366+00:00",
+   "posted_exact": true,
+   "jd_file": "f6a8522ee6.md",
+   "summary": "Are you interested in shaping the future of live sports broadcasting? Do you want to set high standards on how Amazon customers are watching live sports? If so, you might be the right person for the Content Associate role on the Prime Video Live Events team, which brings new sports leagues and..."
+  },
+  {
+   "title": "Device Associate, MMPT",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10607022/device-associate-mmpt",
+   "posted": "2026-11-17T00:00:00+00:00",
+   "company": "Amazon",
+   "years": 1,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-17T21:50:40.742366+00:00",
+   "posted_exact": true,
+   "jd_file": "7fe52351d4.md",
+   "summary": "Device Associates at Amazon perform manual black box testing on advanced applications and products from an end-user perspective. Their core focus is accurately executing test cases, meeting deadlines, and reporting results precisely.They execute test cases for software builds on desktop and mobile..."
+  },
   {
    "title": "Associate, Quality Services, Amazon Kids",
    "location": "Chennai, Tamil Nadu, IND",
@@ -75,15 +121,15 @@
   {
    "title": "ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog",
    "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10583631/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog",
+   "url": "https://www.amazon.jobs/en/jobs/10583634/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog",
    "posted": "2026-11-02T00:00:00+00:00",
    "company": "Amazon",
    "years": 2,
    "matched": [],
    "match": 0,
-   "first_seen": "2026-11-02T22:24:00.584569+00:00",
+   "first_seen": "2026-11-17T21:50:40.742366+00:00",
    "posted_exact": true,
-   "jd_file": "2cbc890f8f.md",
+   "jd_file": "1659af2cfb.md",
    "summary": "• Work on defined set of instructions to collect ground truth data for the product development. • Perform execution and report results accurately. • Understand procedures and guidelines for new tasks / releases • Perform repetitive exercises based on the dynamic instructions without compromising on..."
   },
   {
@@ -201,20 +247,6 @@
    "posted_exact": true,
    "jd_file": "1cf1ee1126.md",
    "summary": "Are you an innovative and accomplished professional seeking for a role with a significant impact and growth? Amazon is looking for a dynamic Software Development Engineer to join our core team in the Books org with a focus on AbeBooks automation and modernization initiatives. In this role, you will..."
-  },
-  {
-   "title": "Digital Supply Chain Associate, Prime Video Publishing Operations",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578792/digital-supply-chain-associate-prime-video-publishing-operations",
-   "posted": "2026-10-14T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-17T09:28:11.194773+00:00",
-   "posted_exact": true,
-   "jd_file": "948ae9a3d0.md",
-   "summary": "We are looking for a Media Asset Correction Associate to join our team, specializing in quality assessment and corrective editing of Prime Video audio, video, and subtitle assets. This role is responsible for ensuring that all playable media assets meet the required technical specifications and..."
   },
   {
    "title": "Associate - Retail Process, CMT",

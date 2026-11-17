@@ -1,9 +1,12 @@
-# Last 14 days - 3 jobs
+# Last 14 days - 6 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
+| ⭐ | Amazon | Software Development Engineer - Agentic Data Infrastructure, Partner Data And Analytics | Chennai, Tamil Nadu, IND | 21h ago | [Apply](https://www.amazon.jobs/en/jobs/10602100/software-development-engineer-agentic-data-infrastructure-partner-data-and-analytics) | [JD](../jds/ed2f77fe67.md) |
+|  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 21h ago | [Apply](https://www.amazon.jobs/en/jobs/10598698/dsc-associate-prime-video-sports) | [JD](../jds/f6a8522ee6.md) |
+|  | Amazon | Device Associate, MMPT | Chennai, Tamil Nadu, IND | 21h ago | [Apply](https://www.amazon.jobs/en/jobs/10607022/device-associate-mmpt) | [JD](../jds/7fe52351d4.md) |
 |  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](../jds/4f81b1b8c8.md) |
 |  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 6d ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](../jds/41b3471151.md) |
 |  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 7d ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](../jds/dfeceb71e2.md) |
