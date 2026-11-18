@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-17T21:50:40.742366+00:00",
- "count": 23,
+ "updated": "2026-11-18T08:46:53.128097+00:00",
+ "count": 22,
  "jobs": [
+  {
+   "title": "Associate, ML Data Operations, GO-AI Operations",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10606856/associate-ml-data-operations-go-ai-operations",
+   "posted": "2026-11-18T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-18T08:46:53.128097+00:00",
+   "posted_exact": true,
+   "jd_file": "8fe18f005e.md",
+   "summary": "This team enables automation at Amazon Robotics Fulfillment centers. This team serves Amazon Internal Fulfillment Technologies & Robotics teams by enabling automation, which includes real-time & offline (image/video) data auditing services. One of the key contributions of this team is supporting..."
+  },
   {
    "title": "Software Development Engineer - Agentic Data Infrastructure, Partner Data And Analytics",
    "location": "Chennai, Tamil Nadu, IND",
@@ -89,20 +103,6 @@
    "posted_exact": true,
    "jd_file": "dfeceb71e2.md",
    "summary": "Are you interested in shaping the future of live sports broadcasting? Do you want to set high standards on how Amazon customers are watching live sports? If so, you might be the right person for the Content Associate role on the Prime Video Live Events team, which brings new sports leagues and..."
-  },
-  {
-   "title": "Software Development Engineer, Alexa Connections",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10592249/software-development-engineer-alexa-connections",
-   "posted": "2026-11-02T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 2,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-02T07:53:23.955204+00:00",
-   "posted_exact": true,
-   "jd_file": "88abc6eb7a.md",
-   "summary": "Alexa Connections is on a mission to become the world's most trusted communication agent, spanning across calls, text, email, and the ever-expanding surfaces where people connect. We're building intelligence that keeps customers connected effortlessly to their network and beyond, while putting..."
   },
   {
    "title": "ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog",
@@ -203,20 +203,6 @@
    "posted_exact": true,
    "jd_file": "0f35a476a7.md",
    "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
-  },
-  {
-   "title": "Software Development Engineer II, Alexa Excellence",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10591315/software-development-engineer-ii-alexa-excellence",
-   "posted": "2026-10-28T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 2,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-10-28T18:57:42.650224+00:00",
-   "posted_exact": true,
-   "jd_file": "38c2000626.md",
-   "summary": "Are you customer-obsessed and interested in Speech and Language Understanding? If so, the Alexa Excellence Team in Chennai/Bengaluru is looking for a talented engineer to help revolutionize our voice-forward experience. Alexa is the Amazon service that powers the Echo family of devices, Fire TV,..."
   },
   {
    "title": "Digital Content Associate, Amazon Music",
