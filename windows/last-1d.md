@@ -4,6 +4,6 @@
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Associate, ML Data Operations, GO-AI Operations | Chennai, Tamil Nadu, IND | 8h ago | [Apply](https://www.amazon.jobs/en/jobs/10606856/associate-ml-data-operations-go-ai-operations) | [JD](../jds/8fe18f005e.md) |
+|  | Amazon | Associate, Quality Services, DEX SSD Field | Chennai, Tamil Nadu, IND | 21h ago | [Apply](https://www.amazon.jobs/en/jobs/10608185/associate-quality-services-dex-ssd-field) | [JD](../jds/dad5045e3c.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._

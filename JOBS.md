@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-18 08:46 UTC - 22 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-18 21:29 UTC - 22 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -10,7 +10,7 @@ _Last updated: 2026-11-18 08:46 UTC - 22 open roles from 13 working company boar
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Associate, ML Data Operations, GO-AI Operations | Chennai, Tamil Nadu, IND | 8h ago | [Apply](https://www.amazon.jobs/en/jobs/10606856/associate-ml-data-operations-go-ai-operations) | [JD](jds/8fe18f005e.md) |
+|  | Amazon | Associate, Quality Services, DEX SSD Field | Chennai, Tamil Nadu, IND | 21h ago | [Apply](https://www.amazon.jobs/en/jobs/10608185/associate-quality-services-dex-ssd-field) | [JD](jds/dad5045e3c.md) |
 | ⭐ | Amazon | Software Development Engineer - Agentic Data Infrastructure, Partner Data And Analytics | Chennai, Tamil Nadu, IND | 1d ago | [Apply](https://www.amazon.jobs/en/jobs/10602100/software-development-engineer-agentic-data-infrastructure-partner-data-and-analytics) | [JD](jds/ed2f77fe67.md) |
 |  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 1d ago | [Apply](https://www.amazon.jobs/en/jobs/10598698/dsc-associate-prime-video-sports) | [JD](jds/f6a8522ee6.md) |
 |  | Amazon | Device Associate, MMPT | Chennai, Tamil Nadu, IND | 1d ago | [Apply](https://www.amazon.jobs/en/jobs/10607022/device-associate-mmpt) | [JD](jds/7fe52351d4.md) |
@@ -21,12 +21,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 304 | 38 | 22 | 22 |
+| Amazon | OK | 305 | 38 | 22 | 22 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
 | Salesforce | OK | 0 | 0 | 0 | 0 |
-| Freshworks | OK | 113 | 14 | 0 | 0 |
+| Freshworks | OK | 117 | 14 | 0 | 0 |
 | Zeta | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Capillary Technologies | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Gramener | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
@@ -35,15 +35,15 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 788 | 0 | 0 | 0 |
-| Cloudflare | OK | 482 | 0 | 0 | 0 |
-| Databricks | OK | 897 | 0 | 0 | 0 |
-| Datadog | OK | 383 | 0 | 0 | 0 |
+| Stripe | OK | 787 | 0 | 0 | 0 |
+| Cloudflare | OK | 496 | 0 | 0 | 0 |
+| Databricks | OK | 899 | 0 | 0 | 0 |
+| Datadog | OK | 380 | 0 | 0 | 0 |
 | Twilio | OK | 110 | 0 | 0 | 0 |
 | Coinbase | OK | 256 | 0 | 0 | 0 |
-| Palantir | OK | 301 | 0 | 0 | 0 |
-| Spotify | OK | 88 | 0 | 0 | 0 |
-| OpenAI | OK | 837 | 0 | 0 | 0 |
-| Notion | OK | 167 | 0 | 0 | 0 |
+| Palantir | OK | 306 | 0 | 0 | 0 |
+| Spotify | OK | 90 | 0 | 0 | 0 |
+| OpenAI | OK | 838 | 0 | 0 | 0 |
+| Notion | OK | 166 | 0 | 0 | 0 |
 
 </details>
