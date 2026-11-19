@@ -1,9 +1,7 @@
-# Last 24 hours - 1 jobs
+# Last 24 hours - 0 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
-| Match | Company | Role | Location | Posted | Apply | JD |
-|---|---|---|---|---|---|---|
-|  | Amazon | Associate, Quality Services, DEX SSD Field | Chennai, Tamil Nadu, IND | 21h ago | [Apply](https://www.amazon.jobs/en/jobs/10608185/associate-quality-services-dex-ssd-field) | [JD](../jds/dad5045e3c.md) |
+_No jobs in this window._
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
