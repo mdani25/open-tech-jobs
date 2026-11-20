@@ -1,4 +1,4 @@
-# Last 30 days (1 month) - 15 jobs
+# Last 30 days (1 month) - 14 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
@@ -11,7 +11,6 @@
 |  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 9d ago | [Apply](https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids) | [JD](../jds/4f81b1b8c8.md) |
 |  | Amazon | Associate, Quality Services, Amazon Kids | Chennai, Tamil Nadu, IND | 9d ago | [Apply](https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids) | [JD](../jds/41b3471151.md) |
 |  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 10d ago | [Apply](https://www.amazon.jobs/en/jobs/10600801/dsc-associate-prime-video-sports) | [JD](../jds/dfeceb71e2.md) |
-|  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10583636/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/2e9efd8c24.md) |
 |  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10583634/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/1659af2cfb.md) |
 |  | Amazon | ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog | Chennai, Tamil Nadu, IND | 18d ago | [Apply](https://www.amazon.jobs/en/jobs/10583626/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog) | [JD](../jds/7d230293b7.md) |
 |  | Amazon | Software Development Engineer, Alexa Connections | Chennai, Tamil Nadu, IND | 22d ago | [Apply](https://www.amazon.jobs/en/jobs/10592055/software-development-engineer-alexa-connections) | [JD](../jds/2688094265.md) |
