@@ -1,17 +1,15 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-21 08:30 UTC - 23 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-21 20:11 UTC - 21 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (2) | [Last 2 days](windows/last-2d.md) (2) | [Last 3 days](windows/last-3d.md) (2) | [Last 7 days](windows/last-7d.md) (6) | [Last 14 days](windows/last-14d.md) (9) | [Last 30 days (1 month)](windows/last-30d.md) (16)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (0) | [Last 3 days](windows/last-3d.md) (0) | [Last 7 days](windows/last-7d.md) (4) | [Last 14 days](windows/last-14d.md) (7) | [Last 30 days (1 month)](windows/last-30d.md) (14)
 
-## Last 7 days (6)
+## Last 7 days (4)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-|  | Amazon | Catalog Associate, Global Catalog Operations | Chennai, Tamil Nadu, IND | 8h ago | [Apply](https://www.amazon.jobs/en/jobs/10610890/catalog-associate-global-catalog-operations) | [JD](jds/7ef7a91884.md) |
-|  | Amazon | Catalog Associate, Global Catalog Operations | Chennai, Tamil Nadu, IND | 8h ago | [Apply](https://www.amazon.jobs/en/jobs/10610889/catalog-associate-global-catalog-operations) | [JD](jds/f4b53b5b07.md) |
 |  | Amazon | Associate, Quality Services, DEX SSD Field | Chennai, Tamil Nadu, IND | 3d ago | [Apply](https://www.amazon.jobs/en/jobs/10608185/associate-quality-services-dex-ssd-field) | [JD](jds/dad5045e3c.md) |
 | ⭐ | Amazon | Software Development Engineer - Agentic Data Infrastructure, Partner Data And Analytics | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10602100/software-development-engineer-agentic-data-infrastructure-partner-data-and-analytics) | [JD](jds/ed2f77fe67.md) |
 |  | Amazon | DSC Associate, Prime Video Sports | Chennai, Tamil Nadu, IND | 4d ago | [Apply](https://www.amazon.jobs/en/jobs/10598698/dsc-associate-prime-video-sports) | [JD](jds/f6a8522ee6.md) |
@@ -23,7 +21,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 310 | 39 | 23 | 23 |
+| Amazon | OK | 309 | 37 | 21 | 21 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -38,8 +36,8 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Stripe | OK | 778 | 0 | 0 | 0 |
-| Cloudflare | OK | 503 | 0 | 0 | 0 |
-| Databricks | OK | 897 | 0 | 0 | 0 |
+| Cloudflare | OK | 504 | 0 | 0 | 0 |
+| Databricks | OK | 895 | 0 | 0 | 0 |
 | Datadog | OK | 382 | 0 | 0 | 0 |
 | Twilio | OK | 109 | 0 | 0 | 0 |
 | Coinbase | OK | 252 | 0 | 0 | 0 |
