@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-22 08:24 UTC - 21 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-22 20:25 UTC - 21 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -21,7 +21,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 309 | 37 | 21 | 21 |
+| Amazon | OK | 307 | 37 | 21 | 21 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
@@ -37,7 +37,7 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Stripe | OK | 777 | 0 | 0 | 0 |
 | Cloudflare | OK | 504 | 0 | 0 | 0 |
-| Databricks | OK | 895 | 0 | 0 | 0 |
+| Databricks | OK | 893 | 0 | 0 | 0 |
 | Datadog | OK | 382 | 0 | 0 | 0 |
 | Twilio | OK | 109 | 0 | 0 | 0 |
 | Coinbase | OK | 252 | 0 | 0 | 0 |
