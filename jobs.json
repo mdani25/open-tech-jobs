@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T09:23:14.918694+00:00",
- "count": 23,
+ "updated": "2026-11-24T01:05:56.644834+00:00",
+ "count": 21,
  "jobs": [
   {
    "title": "Digital Associate I, MLDOps",
@@ -249,20 +249,6 @@
    "summary": "Are you an innovative and accomplished professional seeking for a role with a significant impact and growth? Amazon is looking for a dynamic Software Development Engineer to join our core team in the Books org with a focus on AbeBooks automation and modernization initiatives. In this role, you will..."
   },
   {
-   "title": "Associate - Retail Process, CMT",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10575487/associate-retail-process-cmt",
-   "posted": "2026-10-12T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-13T20:34:42.401202+00:00",
-   "posted_exact": true,
-   "jd_file": "26a7eabe0b.md",
-   "summary": "In this role, you will be responsible to monitor and ensure the accuracy of the pricing analytics & operations team through audits and process improvement activities. The job involves auditing operations teams` & system outputs, suggesting and implementing process/system improvements, and..."
-  },
-  {
    "title": "Software Dev Engineer II, Amazon Payment Services",
    "location": "Chennai, Tamil Nadu, IND",
    "url": "https://www.amazon.jobs/en/jobs/10558766/software-dev-engineer-ii-amazon-payment-services",
@@ -289,22 +275,6 @@
    "posted_exact": true,
    "jd_file": "a476f6fdc0.md",
    "summary": "We are looking for a seasoned senior developer to design/build massive scale, distributed computing solutions. You will be responsible for driving the team’s technical direction, strategizing and shaping our long-term vision and architecture. You will own major deliverables end-to-end, drive..."
-  },
-  {
-   "title": "Software Development Engineer II (ML), CMT",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10513313/software-development-engineer-ii-ml-cmt",
-   "posted": "2026-08-25T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 3,
-   "matched": [
-    "full stack"
-   ],
-   "match": 1,
-   "first_seen": "2026-10-18T16:28:59.560528+00:00",
-   "posted_exact": true,
-   "jd_file": "736d6cf0e0.md",
-   "summary": "As a member of Amazon's Worldwide Pricing and promotions team, you'll play a key role in the evolution of our Competitive Monitoring team to solve the world's most complex technical challenges in Crawling, Large-scale computing, Distributed systems, Web applications, and using Large language models..."
   },
   {
    "title": "Application Engineer, AWS Quick",
