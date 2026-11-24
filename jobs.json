@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T11:17:40.733676+00:00",
- "count": 18,
+ "updated": "2026-11-24T23:10:11.424303+00:00",
+ "count": 20,
  "jobs": [
   {
    "title": "Data Scientist I 6M Intern",
@@ -19,6 +19,34 @@
    "posted_exact": true,
    "jd_file": "36a7aff0df.md",
    "summary": "We are looking for motivated data scientists with leadership skills, and the ability to develop, automate, and run analytical models of our systems. Academic and/or practical background in Computer Science, Engineering, Operations Research, or Process Control are particularly relevant for this..."
+  },
+  {
+   "title": "Catalog Associate, Global Catalog Operations",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10612667/catalog-associate-global-catalog-operations",
+   "posted": "2026-11-24T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-24T23:10:11.424303+00:00",
+   "posted_exact": true,
+   "jd_file": "66ecd98921.md",
+   "summary": "The Global Catalog Operations team at Amazon is looking for highly motivated and talented candidates to participate in auditing and correcting the data in our retail catalog. The ideal candidate must demonstrate strong analytical & communication skills, attention to details, and a commitment to..."
+  },
+  {
+   "title": "Catalog Associate, Global Catalog Operations",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10612666/catalog-associate-global-catalog-operations",
+   "posted": "2026-11-24T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-24T23:10:11.424303+00:00",
+   "posted_exact": true,
+   "jd_file": "7e4d0157fc.md",
+   "summary": "The Global Catalog Operations team at Amazon is looking for highly motivated and talented candidates to participate in auditing and correcting the data in our retail catalog. The ideal candidate must demonstrate strong analytical & communication skills, attention to details, and a commitment to..."
   },
   {
    "title": "Digital Associate I, MLDOps",
