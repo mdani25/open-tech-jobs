@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-24T01:05:56.644834+00:00",
- "count": 21,
+ "updated": "2026-11-24T11:17:40.733676+00:00",
+ "count": 18,
  "jobs": [
+  {
+   "title": "Data Scientist I 6M Intern",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern",
+   "posted": "2026-11-24T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [
+    "python",
+    "sql",
+    "tensorflow"
+   ],
+   "match": 3,
+   "first_seen": "2026-11-24T11:17:40.733676+00:00",
+   "posted_exact": true,
+   "jd_file": "36a7aff0df.md",
+   "summary": "We are looking for motivated data scientists with leadership skills, and the ability to develop, automate, and run analytical models of our systems. Academic and/or practical background in Computer Science, Engineering, Operations Research, or Process Control are particularly relevant for this..."
+  },
   {
    "title": "Digital Associate I, MLDOps",
    "location": "Chennai, Tamil Nadu, IND",
@@ -91,34 +109,6 @@
    "summary": "Are you interested in shaping the future of live sports broadcasting? Do you want to set high standards on how Amazon customers are watching live sports? If so, you might be the right person for the Content Associate role on the Prime Video Live Events team, which brings new sports leagues and..."
   },
   {
-   "title": "Device Associate, MMPT",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10607022/device-associate-mmpt",
-   "posted": "2026-11-17T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 1,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-17T21:50:40.742366+00:00",
-   "posted_exact": true,
-   "jd_file": "7fe52351d4.md",
-   "summary": "Device Associates at Amazon perform manual black box testing on advanced applications and products from an end-user perspective. Their core focus is accurately executing test cases, meeting deadlines, and reporting results precisely.They execute test cases for software builds on desktop and mobile..."
-  },
-  {
-   "title": "Associate, Quality Services, Amazon Kids",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10602073/associate-quality-services-amazon-kids",
-   "posted": "2026-11-11T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-11T07:57:09.130012+00:00",
-   "posted_exact": true,
-   "jd_file": "4f81b1b8c8.md",
-   "summary": "The Quality Services (QS) organization provides testing support for Devices, Retail, and AWS products. The primary objective of the QS organization is to provide manual testing support. As an Associate, Quality Services, you will perform manual test execution of documented task instructions,..."
-  },
-  {
    "title": "Associate, Quality Services, Amazon Kids",
    "location": "Chennai, Tamil Nadu, IND",
    "url": "https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids",
@@ -145,20 +135,6 @@
    "posted_exact": true,
    "jd_file": "dfeceb71e2.md",
    "summary": "Are you interested in shaping the future of live sports broadcasting? Do you want to set high standards on how Amazon customers are watching live sports? If so, you might be the right person for the Content Associate role on the Prime Video Live Events team, which brings new sports leagues and..."
-  },
-  {
-   "title": "ML Data Associate-I (Fixed Term Contract), FAI KFE - Leafrog",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10583634/ml-data-associate-i-fixed-term-contract-fai-kfe-leafrog",
-   "posted": "2026-11-02T00:00:00+00:00",
-   "company": "Amazon",
-   "years": 2,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-17T21:50:40.742366+00:00",
-   "posted_exact": true,
-   "jd_file": "1659af2cfb.md",
-   "summary": "• Work on defined set of instructions to collect ground truth data for the product development. • Perform execution and report results accurately. • Understand procedures and guidelines for new tasks / releases • Perform repetitive exercises based on the dynamic instructions without compromising on..."
   },
   {
    "title": "Software Development Engineer, Alexa Connections",
@@ -216,20 +192,6 @@
    "first_seen": "2026-11-09T08:19:01.060115+00:00",
    "posted_exact": true,
    "jd_file": "0f35a476a7.md",
-   "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
-  },
-  {
-   "title": "Digital Content Associate, Amazon Music",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10588979/digital-content-associate-amazon-music",
-   "posted": "2026-10-26T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-09T08:19:01.060115+00:00",
-   "posted_exact": true,
-   "jd_file": "4b54a21bc3.md",
    "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
   },
   {
