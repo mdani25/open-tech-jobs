@@ -1,11 +1,9 @@
-# Last 24 hours - 3 jobs
+# Last 24 hours - 1 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
 | Match | Company | Role | Location | Posted | Apply | JD |
 |---|---|---|---|---|---|---|
-| ⭐ | Amazon | Data Scientist I 6M Intern | Chennai, Tamil Nadu, IND | 23h ago | [Apply](https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern) | [JD](../jds/36a7aff0df.md) |
-|  | Amazon | Catalog Associate, Global Catalog Operations | Chennai, Tamil Nadu, IND | 23h ago | [Apply](https://www.amazon.jobs/en/jobs/10612667/catalog-associate-global-catalog-operations) | [JD](../jds/66ecd98921.md) |
-|  | Amazon | Catalog Associate, Global Catalog Operations | Chennai, Tamil Nadu, IND | 23h ago | [Apply](https://www.amazon.jobs/en/jobs/10612666/catalog-associate-global-catalog-operations) | [JD](../jds/7e4d0157fc.md) |
+|  | Amazon | Associate, Quality Services | Chennai, Tamil Nadu, IND | 10h ago | [Apply](https://www.amazon.jobs/en/jobs/10604825/associate-quality-services) | [JD](../jds/45b9e29052.md) |
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._

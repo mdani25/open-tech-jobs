@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-24T23:10:11.424303+00:00",
- "count": 20,
+ "updated": "2026-11-25T10:03:43.473400+00:00",
+ "count": 17,
  "jobs": [
+  {
+   "title": "Associate, Quality Services",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10604825/associate-quality-services",
+   "posted": "2026-11-25T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-25T10:03:43.473400+00:00",
+   "posted_exact": true,
+   "jd_file": "45b9e29052.md",
+   "summary": "The Quality Services (QS) organization provides testing support for Devices, Retail, and AWS products. The primary objective of the QS organization is to provide manual testing support. As an Associate, Quality Services, you will perform manual test execution of documented task instructions,..."
+  },
   {
    "title": "Data Scientist I 6M Intern",
    "location": "Chennai, Tamil Nadu, IND",
@@ -19,76 +33,6 @@
    "posted_exact": true,
    "jd_file": "36a7aff0df.md",
    "summary": "We are looking for motivated data scientists with leadership skills, and the ability to develop, automate, and run analytical models of our systems. Academic and/or practical background in Computer Science, Engineering, Operations Research, or Process Control are particularly relevant for this..."
-  },
-  {
-   "title": "Catalog Associate, Global Catalog Operations",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10612667/catalog-associate-global-catalog-operations",
-   "posted": "2026-11-24T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-24T23:10:11.424303+00:00",
-   "posted_exact": true,
-   "jd_file": "66ecd98921.md",
-   "summary": "The Global Catalog Operations team at Amazon is looking for highly motivated and talented candidates to participate in auditing and correcting the data in our retail catalog. The ideal candidate must demonstrate strong analytical & communication skills, attention to details, and a commitment to..."
-  },
-  {
-   "title": "Catalog Associate, Global Catalog Operations",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10612666/catalog-associate-global-catalog-operations",
-   "posted": "2026-11-24T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-24T23:10:11.424303+00:00",
-   "posted_exact": true,
-   "jd_file": "7e4d0157fc.md",
-   "summary": "The Global Catalog Operations team at Amazon is looking for highly motivated and talented candidates to participate in auditing and correcting the data in our retail catalog. The ideal candidate must demonstrate strong analytical & communication skills, attention to details, and a commitment to..."
-  },
-  {
-   "title": "Digital Associate I, MLDOps",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10611140/digital-associate-i-mldops",
-   "posted": "2026-11-23T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-23T09:23:14.918694+00:00",
-   "posted_exact": true,
-   "jd_file": "2bc2609609.md",
-   "summary": "Understand and work on defined sets of instructions, procedures, and guidelines for new tasks and releases. Perform repetitive exercises based on dynamic instructions without compromising quality. Prioritize and handle multiple assignments while meeting deadlines. Complete complex tasks with..."
-  },
-  {
-   "title": "Digital Associate I, MLDOps",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10611139/digital-associate-i-mldops",
-   "posted": "2026-11-23T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-23T09:23:14.918694+00:00",
-   "posted_exact": true,
-   "jd_file": "cbf1119c7c.md",
-   "summary": "External job description Understand and work on defined sets of instructions, procedures, and guidelines for new tasks and releases. Perform repetitive exercises based on dynamic instructions without compromising quality. Prioritize and handle multiple assignments while meeting deadlines. Complete..."
-  },
-  {
-   "title": "Digital Associate I, MLDOps",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10611141/digital-associate-i-mldops",
-   "posted": "2026-11-23T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-23T09:23:14.918694+00:00",
-   "posted_exact": true,
-   "jd_file": "ef8b181228.md",
-   "summary": "Understand and work on defined sets of instructions, procedures, and guidelines for new tasks and releases. Perform repetitive exercises based on dynamic instructions without compromising quality. Prioritize and handle multiple assignments while meeting deadlines. Complete complex tasks with..."
   },
   {
    "title": "Associate, Quality Services, DEX SSD Field",
@@ -137,18 +81,18 @@
    "summary": "Are you interested in shaping the future of live sports broadcasting? Do you want to set high standards on how Amazon customers are watching live sports? If so, you might be the right person for the Content Associate role on the Prime Video Live Events team, which brings new sports leagues and..."
   },
   {
-   "title": "Associate, Quality Services, Amazon Kids",
+   "title": "Associate, Quality Services, Device Tech support",
    "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10602072/associate-quality-services-amazon-kids",
+   "url": "https://www.amazon.jobs/en/jobs/10602426/associate-quality-services-device-tech-support",
    "posted": "2026-11-11T00:00:00+00:00",
    "company": "Amazon",
    "years": null,
    "matched": [],
    "match": 0,
-   "first_seen": "2026-11-11T07:57:09.130012+00:00",
+   "first_seen": "2026-11-25T10:03:43.473400+00:00",
    "posted_exact": true,
-   "jd_file": "41b3471151.md",
-   "summary": "The Quality Services (QS) organization provides testing support for Devices, Retail, and AWS products. The primary objective of the QS organization is to provide manual testing support. As an Associate, Quality Services, you will perform manual test execution of documented task instructions,..."
+   "jd_file": "0d341d6bf5.md",
+   "summary": "Quality Services (QS) organization provides testing support for Devices, Retail and AWS products. The primary objective of QS organization is to provide manual testing support. An Associate, Quality Services performs manual test execution of documented task instructions. They produce accurate test..."
   },
   {
    "title": "DSC Associate, Prime Video Sports",
@@ -220,6 +164,20 @@
    "first_seen": "2026-11-09T08:19:01.060115+00:00",
    "posted_exact": true,
    "jd_file": "0f35a476a7.md",
+   "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
+  },
+  {
+   "title": "Digital Content Associate, Amazon Music",
+   "location": "Chennai, Tamil Nadu, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10588979/digital-content-associate-amazon-music",
+   "posted": "2026-10-26T00:00:00+00:00",
+   "company": "Amazon",
+   "years": null,
+   "matched": [],
+   "match": 0,
+   "first_seen": "2026-11-25T10:03:43.473400+00:00",
+   "posted_exact": true,
+   "jd_file": "4b54a21bc3.md",
    "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to artist merch, Amazon Music is innovating at some of the most exciting intersections of music and..."
   },
   {
