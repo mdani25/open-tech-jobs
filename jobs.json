@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T09:46:20.166573+00:00",
- "count": 17,
+ "updated": "2026-11-26T22:28:57.524544+00:00",
+ "count": 16,
  "jobs": [
   {
    "title": "Associate, Quality Services",
@@ -33,20 +33,6 @@
    "posted_exact": true,
    "jd_file": "36a7aff0df.md",
    "summary": "We are looking for motivated data scientists with leadership skills, and the ability to develop, automate, and run analytical models of our systems. Academic and/or practical background in Computer Science, Engineering, Operations Research, or Process Control are particularly relevant for this..."
-  },
-  {
-   "title": "Associate, Quality Services, DEX SSD Field",
-   "location": "Chennai, Tamil Nadu, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10608185/associate-quality-services-dex-ssd-field",
-   "posted": "2026-11-18T00:00:00+00:00",
-   "company": "Amazon",
-   "years": null,
-   "matched": [],
-   "match": 0,
-   "first_seen": "2026-11-18T21:29:32.510387+00:00",
-   "posted_exact": true,
-   "jd_file": "dad5045e3c.md",
-   "summary": "The Quality Services (QS) organization provides testing support for Devices, Retail, and AWS products. The primary objective of the QS organization is to provide manual testing support. As an Associate, Quality Services, you will perform manual test execution of documented task instructions,..."
   },
   {
    "title": "Software Development Engineer - Agentic Data Infrastructure, Partner Data And Analytics",

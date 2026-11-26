@@ -1,10 +1,10 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-26 09:46 UTC - 17 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-26 22:28 UTC - 16 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
-**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (1) | [Last 3 days](windows/last-3d.md) (2) | [Last 7 days](windows/last-7d.md) (2) | [Last 14 days](windows/last-14d.md) (5) | [Last 30 days (1 month)](windows/last-30d.md) (11)
+**Other time windows:** [Last 24 hours](windows/last-1d.md) (0) | [Last 2 days](windows/last-2d.md) (1) | [Last 3 days](windows/last-3d.md) (2) | [Last 7 days](windows/last-7d.md) (2) | [Last 14 days](windows/last-14d.md) (4) | [Last 30 days (1 month)](windows/last-30d.md) (10)
 
 ## Last 7 days (2)
 
@@ -19,12 +19,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 309 | 23 | 17 | 17 |
+| Amazon | OK | 308 | 21 | 16 | 16 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
 | Salesforce | OK | 0 | 0 | 0 | 0 |
-| Freshworks | OK | 121 | 16 | 0 | 0 |
+| Freshworks | OK | 120 | 16 | 0 | 0 |
 | Zeta | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Capillary Technologies | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Gramener | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
@@ -33,12 +33,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 772 | 0 | 0 | 0 |
-| Cloudflare | OK | 522 | 0 | 0 | 0 |
-| Databricks | OK | 878 | 0 | 0 | 0 |
+| Stripe | OK | 768 | 0 | 0 | 0 |
+| Cloudflare | OK | 528 | 0 | 0 | 0 |
+| Databricks | OK | 882 | 0 | 0 | 0 |
 | Datadog | OK | 391 | 0 | 0 | 0 |
-| Twilio | OK | 112 | 0 | 0 | 0 |
-| Coinbase | OK | 257 | 0 | 0 | 0 |
+| Twilio | OK | 113 | 0 | 0 | 0 |
+| Coinbase | OK | 256 | 0 | 0 | 0 |
 | Palantir | OK | 305 | 0 | 0 | 0 |
 | Spotify | OK | 97 | 0 | 0 | 0 |
 | OpenAI | OK | 876 | 0 | 0 | 0 |
