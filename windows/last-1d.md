@@ -1,9 +1,7 @@
-# Last 24 hours - 1 jobs
+# Last 24 hours - 0 jobs
 
 [Back to JOBS.md](../JOBS.md)
 
-| Match | Company | Role | Location | Posted | Apply | JD |
-|---|---|---|---|---|---|---|
-|  | Amazon | Associate, Quality Services | Chennai, Tamil Nadu, IND | 22h ago | [Apply](https://www.amazon.jobs/en/jobs/10604825/associate-quality-services) | [JD](../jds/45b9e29052.md) |
+_No jobs in this window._
 
 _* = posting date not provided by the company, so this is the date the tracker first saw the job._
