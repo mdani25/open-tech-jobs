@@ -1,6 +1,6 @@
 # Chennai Tech Jobs (Fresher to ~3 yrs)
 
-_Last updated: 2026-11-27 09:52 UTC - 16 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
+_Last updated: 2026-11-27 22:12 UTC - 16 open roles from 13 working company boards. ⭐ = matches your resume skills. Click **JD** for the job description._
 
 **Not on this list?** TCS, Zoho, Infosys, Wipro etc. have no public feed. Use the [quick search links and career pages](SEARCH.md).
 
@@ -19,12 +19,12 @@ _* = posting date not provided by the company, so this is the date the tracker f
 
 | Company | Status | Fetched | In Chennai | Passed title/seniority | Final |
 |---|---|---|---|---|---|
-| Amazon | OK | 307 | 21 | 16 | 16 |
+| Amazon | OK | 306 | 21 | 16 | 16 |
 | Walmart Global Tech | FAILED: failed: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs | 0 | 0 | 0 | 0 |
 | Dell | FAILED: failed: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs | 0 | 0 | 0 | 0 |
 | Standard Chartered | FAILED: failed: https://sc.wd3.myworkdayjobs.com/wday/cxs/sc/External_Career_Site/jobs | 0 | 0 | 0 | 0 |
 | Salesforce | OK | 0 | 0 | 0 | 0 |
-| Freshworks | OK | 120 | 16 | 0 | 0 |
+| Freshworks | OK | 120 | 17 | 0 | 0 |
 | Zeta | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Capillary Technologies | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Gramener | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
@@ -33,14 +33,14 @@ _* = posting date not provided by the company, so this is the date the tracker f
 | Agilisium | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Razorpay | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
 | Postman | FAILED: HTTP Error 404: Not Found | 0 | 0 | 0 | 0 |
-| Stripe | OK | 767 | 0 | 0 | 0 |
-| Cloudflare | OK | 531 | 0 | 0 | 0 |
-| Databricks | OK | 879 | 0 | 0 | 0 |
+| Stripe | OK | 771 | 0 | 0 | 0 |
+| Cloudflare | OK | 533 | 0 | 0 | 0 |
+| Databricks | OK | 889 | 0 | 0 | 0 |
 | Datadog | OK | 390 | 0 | 0 | 0 |
 | Twilio | OK | 114 | 0 | 0 | 0 |
 | Coinbase | OK | 256 | 0 | 0 | 0 |
 | Palantir | OK | 305 | 0 | 0 | 0 |
-| Spotify | OK | 97 | 0 | 0 | 0 |
+| Spotify | OK | 98 | 0 | 0 | 0 |
 | OpenAI | OK | 876 | 0 | 0 | 0 |
 | Notion | OK | 174 | 0 | 0 | 0 |
 
